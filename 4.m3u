@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
-http://sy.sy123.love:4022/rtp/239.45.3.206:5140
+http://sy.sy123.love:4022/rtp/239.45.3.25:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://sy.sy123.love:4022/rtp/239.45.3.26:5140
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
