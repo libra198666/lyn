@@ -8,10 +8,6 @@ http://sy.sy123.love:4022/rtp/239.45.3.113:5140
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://sy.sy123.love:4022/rtp/239.45.3.28:5140
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://sy.sy123.love:4022/rtp/239.45.3.255:5140
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
-http://sy.sy123.love:4022/rtp/239.45.3.254:5140
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://sy.sy123.love:4022/rtp/239.45.3.114:5140
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://sy.sy123.love:4022/rtp/239.45.3.115:5140
