@@ -1,0 +1,14 @@
+# NAME: cf切换
+
+payload:
+  - DOMAIN,11.loseremby.org
+  - DOMAIN,cf.emby.ml
+  - DOMAIN,cf3.misakaf.org
+  - DOMAIN,film.nmg.llc
+  - DOMAIN,emby.xmss.vip
+  - DOMAIN,cu.poloemby.xyz
+  - DOMAIN,df.poloemby.xyz
+  - DOMAIN,cfca.emby.ml
+  - DOMAIN,cf.222921.xyz
+  - DOMAIN,o9o.ocd0522.tk
+  - DOMAIN,cf.studyfun.live
