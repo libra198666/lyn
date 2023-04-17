@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/libra198666/iptv/main/iptv/d.m3u
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/0f82d0608ed146a89f0b08e687ad2bb5_middle.jpg" group-title="热门游戏", 话痨
+http://live.aptvapp.com/live/douyu/45662
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202112/0f82d0608ed146a89f0b08e687ad2bb5_middle.jpg" group-title="热门游戏", 话痨
+http://live.aptvapp.com/live/douyu/156277
