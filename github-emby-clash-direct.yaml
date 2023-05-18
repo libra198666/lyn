@@ -21,6 +21,9 @@ payload:
   - DOMAIN-SUFFIX,4837.emby.ml
   - DOMAIN-SUFFIX,one.mulgore.net
   - DOMAIN-SUFFIX,emby.gtma.top
+  - DOMAIN-SUFFIX,stream.studyfun.live
+  - DOMAIN-SUFFIX,stream1.studyfun.live
+
   
 
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
