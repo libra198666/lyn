@@ -19,8 +19,8 @@ payload:
   - DOMAIN-SUFFIX,emby.gtma.top
   - DOMAIN-SUFFIX,stream.studyfun.live
   - DOMAIN-SUFFIX,stream1.studyfun.live
+  - DOMAIN-SUFFIX,789.123456.al 
 
-  
 
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
   - DOMAIN-SUFFIX,usa.bili.rip
