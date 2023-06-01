@@ -6,8 +6,6 @@ payload:
   - DOMAIN,cf3.misakaf.org
   - DOMAIN,film.nmg.llc
   - DOMAIN,emby.xmss.vip
-  - DOMAIN,cu.poloemby.xyz
-  - DOMAIN,df.poloemby.xyz
   - DOMAIN,cfca.emby.ml
   - DOMAIN,cf.222921.xyz
   - DOMAIN,o9o.ocd0522.tk
@@ -19,3 +17,5 @@ payload:
   - DOMAIN-SUFFIX,cf.mjjemby.org
   - DOMAIN-SUFFIX,cf.studyfun.live  
   - DOMAIN-SUFFIX,emby.agon.cf
+  - DOMAIN-SUFFIX,cf.freetz.top
+  - DOMAIN-SUFFIX,scf.poloemby.xyz
