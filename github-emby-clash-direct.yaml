@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,ju.dog
   - DOMAIN-SUFFIX,sf.poloemby.xyz
   - DOMAIN-SUFFIX,emby.ednovas.org
+  - DOMAIN-SUFFIX,cc.ccemby.tk
   
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
   - DOMAIN-SUFFIX,usa.bili.rip
