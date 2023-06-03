@@ -45,7 +45,6 @@ payload:
   - DOMAIN-SUFFIX,emby.wiri.tk
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,gd.9521732.xyz
-  - DOMAIN-SUFFIX,ws.jellyfin.asia
   - DOMAIN-SUFFIX,emby.mius.uk
   - DOMAIN-SUFFIX,emby2.agon.cf
 
@@ -53,7 +52,6 @@ payload:
   - DOMAIN-SUFFIX,emby.wiri.tk
   - DOMAIN-SUFFIX,embyplus.org
   - DOMAIN-SUFFIX,gd.9521732.xyz
-  - DOMAIN-SUFFIX,ws.jellyfin.asia
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,ddys
   - DOMAIN-SUFFIX,emby.xmss.vip
