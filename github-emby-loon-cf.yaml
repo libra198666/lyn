@@ -1,6 +1,4 @@
 # NAME: cf切换
-
-payload:
 DOMAIN-SUFFIX,11.loseremby.org
 DOMAIN-SUFFIX,cf.emby.ml
 DOMAIN-SUFFIX,cf3.misakaf.org
