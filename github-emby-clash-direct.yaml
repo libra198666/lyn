@@ -27,6 +27,8 @@ payload:
   - DOMAIN-SUFFIX,cc.ccemby.tk
   - DOMAIN-SUFFIX,emby.dicarerhome.com
   - DOMAIN-SUFFIX,dx1.carryz.net
+  - DOMAIN-SUFFIX, flare.starcat.eu.org
+
   
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
   - DOMAIN-SUFFIX,usa.bili.rip
