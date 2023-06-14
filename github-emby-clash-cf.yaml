@@ -18,5 +18,6 @@ payload:
   - DOMAIN-SUFFIX,cf.studyfun.live  
   - DOMAIN-SUFFIX,emby.agon.cf
   - DOMAIN-SUFFIX,cf.freetz.top
+  - DOMAIN-SUFFIX,stream.freetz.top  
   - DOMAIN-SUFFIX,scf.poloemby.xyz
   - DOMAIN-SUFFIX,flare.timeouts.info
