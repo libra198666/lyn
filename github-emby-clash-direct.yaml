@@ -29,6 +29,8 @@ payload:
   - DOMAIN-SUFFIX,emby-play.dicarerhome.com
   - DOMAIN-SUFFIX,dx1.carryz.net
   - DOMAIN-SUFFIX,flare.starcat.eu.org
+  - DOMAIN-SUFFIX,spd.poloemby.xyz
+
 
   
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
