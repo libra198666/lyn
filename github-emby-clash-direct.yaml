@@ -35,6 +35,8 @@ payload:
   - DOMAIN-SUFFIX,emby3.mcjoker.xyz
   - DOMAIN-SUFFIX,emby.freetz.top
   - DOMAIN-KEYWORD,ccemby
+  - DOMAIN-SUFFIX,orx.starcat.eu.org
+
   
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
   - DOMAIN-SUFFIX,usa.bili.rip
