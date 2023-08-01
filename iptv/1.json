@@ -3,7 +3,8 @@
     "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"https://jianbian.chuqiuyu.tk",
     "sites":[
-    {"key":"csp_json_xiaoya","name":"小雅","type":1,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
+    {"key":"csp_json_xiaoya1","name":"小雅","type":1,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
+    {"key":"csp_json_xiaoya","name":"小雅2","type":1,"api":"http://192.168.2.23:4567/vod/","playUrl":"","searchable":1,"quickSearch":1},
     {"key":"T4_douban2","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
         
     {"key":"Alist_tv","name":"Alist_tv","type":3,"api":"http://192.168.2.23:1234/tvbox/libs/alist.min.js", "searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.2.23:1234/tvbox/json/alist.json;200;video"},
