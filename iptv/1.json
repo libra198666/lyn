@@ -7,8 +7,8 @@
         
     {"key":"Alist","name":"Alist","type":3,"api":"https://raw.githubusercontent.com/libra198666/iptv/main/iptv/xiaoya_open.js","changeable":0,"filterable":1,"searchable":1,"quickSearch":1,"ext":"http://192.168.2.23:4567/vod1"},
     {"key":"Alist_tv","name":"Alist_tv","type":3,"api":"http://192.168.2.23:1234/tvbox/libs/alist.min.js", "searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.2.23:1234/tvbox/json/alist.json;200;video"},
-    {"key":"test","name":"test","type":1,"api":"http://192.168.2.23:4567/vod1/","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"csp_XiaoYa","name":"xiaoya","type":3,"api":"csp_XiaoYa", "searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ=="},
+    {"key":"csp_XiaoYa","name":"csp_XiaoYa","type":3,"api":"http://192.168.2.23:4567/vod1","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_XiaoYa1","name":"xiaoya1","type":3,"api":"csp_XiaoYa", "searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ=="},
 
 
     {"key":"csp_json_xiaoya","name":"🐝xiaoya","type":1,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
