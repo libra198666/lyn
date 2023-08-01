@@ -5,6 +5,8 @@
     "sites":[   
     
     {"key":"Alist_tv","name":"Alist_tv","type":3,"api":"http://192.168.2.23:1234/tvbox/libs/alist.min.js", "searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.2.23:1234/tvbox/json/alist.json;200;video"},
+    {"key":"Alist_tv1","name":"Alist_tv1","type":3,"api":"file://192.168.2.23/docker/xiaoya-tvbox/2.js", "searchable":1,"quickSearch":1,"filterable":0,"ext":"file://192.168.2.23/docker/xiaoya-tvbox/1.json;200;video"},
+        
         
     {"key":"T4_douban2","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},   
     {"key":"T4_xiaoya","name":"xiaoya","type":4,"api":"http://192.168.2.23:4567/vod1","searchable":1,"quickSearch":1,"filterable":1},  
