@@ -5,7 +5,7 @@
     "sites":[
     {"key":"T4_douban2","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
         
-    {"key":"csp_AList","name":"xiaoya","type":3,"api":"csp_AList","changeable":0,"jar": "http://192.168.2.23:4567/spring.jar","ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ==","searchable":1,"quickSearch":1},
+    {"key":"csp_XiaoYa","name":"xiaoya","type":3,"api":"csp_XiaoYa","changeable":0,"jar": "http://192.168.2.23:4567/spring.jar","ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ==","searchable":1,"quickSearch":1},
 
         
     {"key":"csp_json_飘花资源","name":"🐝飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
