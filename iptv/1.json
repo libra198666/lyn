@@ -3,34 +3,11 @@
     "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"https://jianbian.chuqiuyu.tk",
     "sites":[
+    {"key":"csp_json_xiaoya","name":"小雅","type":1,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
     {"key":"T4_douban2","name":"🔍影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
         
-
     {"key":"Alist_tv","name":"Alist_tv","type":3,"api":"http://192.168.2.23:1234/tvbox/libs/alist.min.js", "searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.2.23:1234/tvbox/json/alist.json;200;video"},
-    {"key":"csp_XiaoYa2","name":"csp_XiaoYa2","type":3,"api":"http://192.168.2.23:4567/vod1","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_XiaoYa1","name":"xiaoya1","type":3,"api":"csp_XiaoYa", "searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ=="},
-    {"key":"csp_XiaoYa","name":"csp_XiaoYa","type":3,"api":"csp_XiaoYa","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ=="},
 
-    {"key":"csp_json_xiaoya","name":"🐝xiaoya","type":1,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"csp_json_xiaoya","name":"🐝xiaoya2","type":1,"api":"http://192.168.2.23:4567/vod/","playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"csp_json_xiaoya","name":"🐝xiaoya3","type":3,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
-    {"key":"csp_json_xiaoya","name":"🐝xiaoya4","type":1,"api":"http://192.168.2.23:4567/vod1/","playUrl":"","searchable":1,"quickSearch":1},
-
-    {"key":"drpy_js_Alist","name":"xiaoya | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json"},    
-    {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json"},
-    {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json;50;video","searchable":1,"quickSearch":1},
-    {
-            "ext": "eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ==",
-            "filterable": 1,
-            "quickSearch": 1,
-            "name": "xiaoya",
-            "changeable": 0,
-            "jar": "http://192.168.2.23:4567/spring.jar",
-            "api": "csp_XiaoYa",
-            "type": 3,
-            "key": "csp_XiaoYa",
-            "searchable": 1
-    },
         
     {"key":"csp_json_飘花资源","name":"🐝飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
     {"key":"csp_json_量子资源","name":"🐝量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
