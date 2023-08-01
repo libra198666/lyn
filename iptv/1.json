@@ -3,7 +3,7 @@
     "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
     "wallpaper":"https://jianbian.chuqiuyu.tk",
     "sites":[
-    {"key":"csp_AList","name":"xiaoya","type":3,"api":"csp_AList","filterable": 1,"changeable":0,"jar": "http://192.168.2.23:4567/spring.jar","ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ==","searchable":1,"quickSearch":1},
+    {"key":"csp_AList","name":"xiaoya","type":3,"api":"csp_AList","changeable":0,"jar": "http://192.168.2.23:4567/spring.jar","ext":"eyJhcGlLZXkiOiIzZWM0NGU5OS0zYTM0LTQzZWItYTQxNC02ZmJhMWFiOWZhZDkiLCJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjIzOjQ1NjcifQ==","searchable":1,"quickSearch":1},
 
         
     {"key":"csp_json_飘花资源","name":"🐝飘花资源","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
