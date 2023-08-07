@@ -41,7 +41,7 @@ payload:
   - DOMAIN-SUFFIX,public.emby.ws
   - DOMAIN-SUFFIX,front.gugumedia.link
   - DOMAIN-SUFFIX,magpie.cyou
-  - DOMAIN-SUFFIX,lincent.org
+  - DOMAIN-KEYWORD,lincent.org
 
 
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
