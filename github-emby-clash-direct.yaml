@@ -83,7 +83,7 @@ payload:
   - DOMAIN-SUFFIX,cdn06-hou-seoul.lincent.org
   - DOMAIN-SUFFIX,cdn07-kent-tokyo.lincent.org
   - DOMAIN-SUFFIX,cdn08-pixel-chuncheon.lincent.org
-  - DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org #magpie
+  - DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org
 
 
 
