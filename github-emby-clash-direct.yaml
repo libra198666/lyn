@@ -41,9 +41,11 @@ payload:
   - DOMAIN-SUFFIX,public.emby.ws
   - DOMAIN-SUFFIX,front.gugumedia.link
   - DOMAIN-SUFFIX,magpie.cyou
+  - DOMAIN-SUFFIX,seoul.lincent.org
+  - DOMAIN-SUFFIX,tokyo.lincent.org
+  - DOMAIN-SUFFIX,chuncheon.lincent.org
 
 
-  
   - DOMAIN-SUFFIX,ws.embyus.bili.rip
   - DOMAIN-SUFFIX,usa.bili.rip
   - DOMAIN-SUFFIX,vip.pornemby.xyz
