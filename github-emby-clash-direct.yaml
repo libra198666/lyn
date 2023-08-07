@@ -74,7 +74,7 @@ payload:
   - DOMAIN-SUFFIX,emby.lzlz.cc
   - DOMAIN-SUFFIX,vip.ffzy-online5.com
 
-  - DOMAIN-SUFFIX,magpie.cyou
+  - DOMAIN-SUFFIX,magpie.cyou 
   - DOMAIN-SUFFIX,cdn01-kent-seoul.lincent.org
   - DOMAIN-SUFFIX,cdn02-zhizhi-seoul.lincent.org
   - DOMAIN-SUFFIX,cdn03-sc-seoul.lincent.org
@@ -83,7 +83,7 @@ payload:
   - DOMAIN-SUFFIX,cdn06-hou-seoul.lincent.org
   - DOMAIN-SUFFIX,cdn07-kent-tokyo.lincent.org
   - DOMAIN-SUFFIX,cdn08-pixel-chuncheon.lincent.org
-  - DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org
+  - DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org #magpie
 
 
 
