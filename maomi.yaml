@@ -30,7 +30,7 @@ dns:
 # 策略组引用
 pr:   &a3 {type: select,   proxies: [🔰 节点A, 🔰 节点B, 🔰 节点C, ☁️ WARP, DIRECT] }
 pr1:   &a8 {type: select,   proxies: [DIRECT, 🔰 节点A, 🔰 节点B, 🔰 节点C, ☁️ WARP] }
-pr2:   &a9 {type: select, proxies: [🚀 Misakaf, 🚀 Pilor, 🚀 8x, 🚀 备用, 🚀 备用2, ♻️ 自动选择, ♻️ 手动切换] }
+pr2:   &a9 {type: select, proxies: [🚀 Misakaf, 🚀 Pilor, 🚀 8x, ♻️ 自动选择, ♻️ 手动切换] }
 pr3:   &a10 {type: select,   proxies: [🚀 0.1x, 🔰 节点B, 🔰 节点C, ☁️ WARP] }
 pr5:   &a12 {type: select,   proxies: [DIRECT, 🚀 0.1x, 🔰 节点A, 🔰 节点B, 🔰 节点C, ☁️ WARP] }
 p:    &a1 {type: http,     interval: 86400,  health-check: {enable: true, url: http://www.gstatic.com/generate_204, interval: 300} }
@@ -53,18 +53,6 @@ proxy-providers:
     url: http://api.aca.best/api/v1/client/subscribe?token=bb8236be4df689fc87aca76015086fce
     path: ./misakaf.yaml
 
-
-  ✈️ 备用:
-    <<: *a1
-    url: https://subscribe.hio.best/api/v1/client/subscribe?token=c40a6063f39cf206a6be61d4728ea633
-    path: ./备用.yaml
-    filter: ^(?!.*(ipv6|网站))
-   
-  ✈️ 备用2:
-    <<: *a1
-    url: https://pqjc.site/api/v1/client/subscribe?token=1ad98450775e998f73531727e3bd52ab
-    path: ./备用2.yaml
-
       
 proxies:
   - {name: ☁️ WARP, server: 162.159.195.115, port: 3581, type: wireguard, ip: 172.16.0.2, ipv6: 2606:4700:110:8e06:2744:febd:9374:8455, private-key: wM3NaA4PwjgTChPwulTZbaSHUI26Lr0jHKE9JUFltFg=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, dns: [1.1.1.1], mtu: 1280, udp: true, remote-dns-resolve: true, reserved: [51,147,4]}
@@ -77,8 +65,6 @@ proxy-groups:
   - {name: 🚀 Misakaf, <<: *a4, use: [✈️ misakaf], filter:  ^(?!.*((?i)8x|剩余|距离|套餐|Emby))}
   - {name: 🚀 0.1x, type: select, use: [✈️ misakaf], filter: "0.1x"}
   - {name: 🚀 8x, <<: *a4, use: [✈️ misakaf], filter: "IPLC"}
-  - {name: 🚀 备用, <<: *a4, use: [✈️ 备用]}  
-  - {name: 🚀 备用2, <<: *a4, use: [✈️ 备用2], filter:  ^(?!.*(剩余|距离|套餐))} 
  
 
   #分流分组
