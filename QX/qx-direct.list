@@ -1,10 +1,10 @@
 # NAME: 直连
-DDOMAIN-KEYWORD,123emby.quest,🎥 直连
-DDOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
-DDOMAIN-SUFFIX,cc.ccemby.ml,🎥 直连
-DDOMAIN-SUFFIX,dx1.ccemby.ga,🎥 直连
-DDOMAIN-SUFFIX,cdn.misakaf.org,🎥 直连
-DDOMAIN-SUFFIX,nebula-emby.com,🎥 直连
+DOMAIN-KEYWORD,123emby.quest,🎥 直连
+DOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
+DOMAIN-SUFFIX,cc.ccemby.ml,🎥 直连
+DOMAIN-SUFFIX,dx1.ccemby.ga,🎥 直连
+DOMAIN-SUFFIX,cdn.misakaf.org,🎥 直连
+DOMAIN-SUFFIX,nebula-emby.com,🎥 直连
 DOMAIN-SUFFIX,embyru.222921.xyz,🎥 直连
 DOMAIN-SUFFIX,the98.ltd,🎥 直连
 DOMAIN-SUFFIX,ca.emby.ml,🎥 直连
@@ -49,7 +49,7 @@ DOMAIN-SUFFIX,usa.bili.rip,🎥 直连
 DOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
 DOMAIN-SUFFIX,amazing910.top,🎥 直连
 DOMAIN-SUFFIX,de.mjjemby.org,🎥 直连
-DOMAIN-SUFFIX,bsem.ddns.me,🎥 直连
+DOMAIN-SUFFIX,bsem.Dns.me,🎥 直连
 DOMAIN-SUFFIX,kr.embymv.tk,🎥 直连
 DOMAIN-SUFFIX,cdn.embytv.cf,🎥 直连
 DOMAIN-SUFFIX,vx.infinityfly.top,🎥 直连
@@ -68,7 +68,7 @@ DOMAIN-SUFFIX,singularity.deja-vu.beauty,🎥 直连
 DOMAIN-SUFFIX,emby.wiri.tk,🎥 直连
 DOMAIN-SUFFIX,embyplus.org,🎥 直连
 DOMAIN-SUFFIX,gd.9521732.xyz,🎥 直连
-DOMAIN-KEYWORD,ddys,🎥 直连
+DOMAIN-KEYWORD,Dys,🎥 直连
 DOMAIN-SUFFIX,emby.xmss.vip,🎥 直连
 DOMAIN-SUFFIX,sana.emby.eu.org,🎥 直连
 DOMAIN-SUFFIX,play.acemby.org,🎥 直连
@@ -88,11 +88,11 @@ DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org,🎥 直连
 
 
 DOMAIN,movie.douban.com,🎥 直连
-DOMAIN,mddcloud.com.cn,🎥 直连
+DOMAIN,mDcloud.com.cn,🎥 直连
 DOMAIN,aliyundrive.asia,🎥 直连
-DOMAIN,v.ddys.zip,🎥 直连
-DOMAIN,v.ddys.pro,🎥 直连
-DOMAIN,ddys.art,🎥 直连
+DOMAIN,v.Dys.zip,🎥 直连
+DOMAIN,v.Dys.pro,🎥 直连
+DOMAIN,Dys.art,🎥 直连
 DOMAIN,zh188.net,🎥 直连
 DOMAIN,cz.cz01.site,🎥 直连
 DOMAIN,www.m3u8.tv.jiexi.8old.cn,🎥 直连
@@ -105,36 +105,4 @@ DOMAIN,tv.apple.com,🎥 直连
 DOMAIN,ctyunxs.cn,🎥 直连
 DOMAIN,hls.aoxtv.com,🎥 直连
 DOMAIN-KEYWORD,lz-cdn,🎥 直连
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-DOMAIN-SUFFIX,flare.timeouts.info
+DOMAIN-SUFFIX,flare.timeouts.info,🎥 直连
