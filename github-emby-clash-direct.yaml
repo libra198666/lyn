@@ -77,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,vip.ffzy-online5.com
 
   - DOMAIN-SUFFIX,magpie.cyou
+  - DOMAIN-SUFFIX,magpiecdn.eu.org
   - DOMAIN-SUFFIX,cdn01-kent-seoul.lincent.org
   - DOMAIN-SUFFIX,cdn02-zhizhi-seoul.lincent.org
   - DOMAIN-SUFFIX,cdn03-sc-seoul.lincent.org
