@@ -1,0 +1,167 @@
+port: 7890           # HTTP 代理端口
+socks-port: 7891     # Socks 端口
+redir-port: 7892     # Redir 端口
+mixed-port: 7893     # 混合端口
+allow-lan: true      # 允许局域网连接
+bind-address: "*"    # 地址绑定
+mode: rule           # 规则模式
+log-level: info      # 日志级别
+ipv6: false          # IPV6开关
+external-controller: 9090
+
+dns:
+  enable: true       # 不使用系统 DNS
+  ipv6: false        # 关闭 IPV6
+  listen: 0.0.0.0:53 # dns 监听
+  nameserver:        # 默认 DNS 服务
+    - 223.5.5.5
+    - 119.29.29.29
+  fallback:          # 国外 DNS 服务器
+    - https://cloudflare-dns.com/dns-query
+    - https://dns.google/dns-query
+    - https://dns.alidns.com/dns-query
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+#========= 建立锚点 =========#
+
+# 策略组引用
+pr:   &a3 {type: select,   proxies: [🔰 节点A, 🔰 节点B, 🔰 节点C, ☁️ WARP, DIRECT] }
+pr1:   &a8 {type: select,   proxies: [DIRECT, 🔰 节点A, 🔰 节点B, 🔰 节点C, ☁️ WARP] }
+pr2:   &a9 {type: select, proxies: [🚀 Misakaf, 🚀 Pilor, 🚀 8x, 🚀 备用, 🚀 备用2, ♻️ 自动选择, ♻️ 手动切换] }
+pr3:   &a10 {type: select,   proxies: [🚀 0.1x, 🔰 节点B, 🔰 节点C, ☁️ WARP] }
+pr5:   &a12 {type: select,   proxies: [DIRECT, 🚀 0.1x, 🔰 节点A, 🔰 节点B, 🔰 节点C, ☁️ WARP] }
+p:    &a1 {type: http,     interval: 86400,  health-check: {enable: true, url: http://www.gstatic.com/generate_204, interval: 300} }
+auto:  &a4 {type: url-test, lazy: true,  url: http://www.gstatic.com/generate_204, interval: 400, tolerance: 100}
+use:   &a2 {type: select,   use: [Subscribe] }
+c:    &a6 {type: http,     behavior: classical, interval: 86400}
+d:    &a5 {type: http,     behavior: domain,    interval: 86400}
+i:    &a7 {type: http,     behavior: ipcidr,    interval: 86400}
+
+
+
+proxy-providers:
+  ✈️ pilor:
+    <<: *a1
+    url: https://www.pilor.net/link/ClyuPkZtIlDB4t55?clash=1
+    path: ./pilor.yaml
+
+  ✈️ misakaf:
+    <<: *a1
+    url: http://api.aca.best/api/v1/client/subscribe?token=bb8236be4df689fc87aca76015086fce
+    path: ./misakaf.yaml
+
+
+  ✈️ 备用:
+    <<: *a1
+    url: https://subscribe.hio.best/api/v1/client/subscribe?token=c40a6063f39cf206a6be61d4728ea633
+    path: ./备用.yaml
+    filter: ^(?!.*(ipv6|网站))
+   
+  ✈️ 备用2:
+    <<: *a1
+    url: https://pqjc.site/api/v1/client/subscribe?token=1ad98450775e998f73531727e3bd52ab
+    path: ./备用2.yaml
+
+      
+proxies:
+  - {name: ☁️ WARP, server: 162.159.195.115, port: 3581, type: wireguard, ip: 172.16.0.2, ipv6: 2606:4700:110:8e06:2744:febd:9374:8455, private-key: wM3NaA4PwjgTChPwulTZbaSHUI26Lr0jHKE9JUFltFg=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, dns: [1.1.1.1], mtu: 1280, udp: true, remote-dns-resolve: true, reserved: [51,147,4]}
+  - {name: ☁️ WARP1, server: 162.159.195.115, port: 3581, type: wireguard, ip: 172.16.0.2, ipv6: 2606:4700:110:8e06:2744:febd:9374:8455, private-key: wM3NaA4PwjgTChPwulTZbaSHUI26Lr0jHKE9JUFltFg=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, dns: [1.1.1.1], mtu: 1280, udp: true, remote-dns-resolve: true, reserved: [51,147,4], dialer-proxy: ♻️ 手动切换}
+  - {name: ☁️ B, server: 162.159.195.115, port: 3581, type: wireguard, ip: 172.16.0.2, ipv6: 2606:4700:110:8828:48ca:8320:9063:bd1d, private-key: 0FyKG+IPGiGVkhk4Sc0t3pZIWzIzRDJR2A0Mkc/q2Go=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, dns: [1.1.1.1], mtu: 1280, udp: true, remote-dns-resolve: true}
+proxy-groups:
+  #节点分组
+
+  - {name: 🚀 Pilor, <<: *a4, use: [✈️ pilor]}
+  - {name: 🚀 Misakaf, <<: *a4, use: [✈️ misakaf], filter:  ^(?!.*((?i)8x|剩余|距离|套餐|Emby))}
+  - {name: 🚀 0.1x, type: select, use: [✈️ misakaf], filter: "0.1x"}
+  - {name: 🚀 8x, <<: *a4, use: [✈️ misakaf], filter: "IPLC"}
+  - {name: 🚀 备用, <<: *a4, use: [✈️ 备用]}  
+  - {name: 🚀 备用2, <<: *a4, use: [✈️ 备用2], filter:  ^(?!.*(剩余|距离|套餐))} 
+ 
+
+  #分流分组
+
+  - {name: 🔰 节点A, <<: *a9} 
+  - {name: 🔰 节点B, <<: *a9} 
+  - {name: 🔰 节点C, <<: *a9} 
+  - {name: 📲 电报信息, type: select, use: [✈️ misakaf, ✈️ pilor], filter: ^(?!.*8x).*(新|狮|Sing)}   
+  - {name: 🎥 直连, <<: *a12}
+  - {name: 🎥 CF, <<: *a12}
+  - {name: 🎥 代理, <<: *a10}
+  - {name: 🎥 代理2, <<: *a10}   
+  - {name: 🌏 国内媒体, <<: *a8}
+  - {name: 🎯 全球直连, <<: *a8}
+  - {name: Ⓜ️ 微软服务, <<: *a8}
+  - {name: Spotify, type: select,   proxies: [🇺🇲 美国节点, DIRECT]  }
+  - {name: 🌍 国外媒体, <<: *a3}
+  - {name: 🎥 NETFLIX, <<: *a3}
+  - {name: 🍎 苹果服务, <<: *a8}
+  - {name: YouTube, type: select,   proxies: [☁️ WARP, ☁️ WARP1, 🔰 节点A, 🔰 节点B, 🔰 节点C] }
+
+
+  - {name: ♻️ 自动选择, <<: *a4, use: [✈️ pilor, ✈️ misakaf, ✈️ 备用], filter: ^(?!.*((?i)8x|0.1x|距离|剩余|套餐))}
+  - {name: 🇸🇬 狮城节点, <<: *a4, use: [✈️ pilor, ✈️ misakaf], filter: "^(?!.*((?i)8x|0.1x))(?=.*(新|坡|SG|Singapore))"}
+  - {name: 🇭🇰 香港节点, <<: *a4, use: [✈️ pilor, ✈️ misakaf], filter: "^(?!.*((?i)8x|0.1x))(?=.*(港|HK|Hong))" }
+  - {name: 🇯🇵 日本节点, <<: *a4, use: [✈️ pilor, ✈️ misakaf], filter: "^(?!.*((?i)8x|0.1x))(?=.*(日|东京|JP|Japan))" }
+  - {name: 🇺🇲 美国节点, <<: *a4, use: [✈️ pilor, ✈️ misakaf], filter: "^(?!.*((?i)8x|0.1x))(?=.*(美|US|States|American))" }
+  - {name: 🇨🇳 台湾节点, <<: *a4, use: [✈️ pilor, ✈️ misakaf], filter: "^(?!.*((?i)8x|0.1x))(?=.*(台|湾|TW|Taiwan))"  }
+  - {name: ♻️ 手动切换, type: select, proxies: [☁️ WARP], use: [✈️ pilor, ✈️ misakaf, ✈️ 备用], filter: ^(?!.*感谢|剩余|距离|套餐)}
+
+  - {name: 🛑 全球拦截, type: select, proxies: [REJECT, PASS]}
+  - {name: 🐟 漏网之鱼, <<: *a3}
+        
+
+ 
+
+rule-providers:
+# 内容：可以自行添加其它自己想要在线规则列表
+  Advertising:   {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.yaml,   path: ./Advertising.yaml}
+  Advertising_Domain:   {<<: *a5, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising_Domain.yaml,   path: ./Advertising_Domain.yaml     }
+  Netflix:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.yaml,   path: ./Netflix.yaml}
+  Disney:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.yaml,   path: ./Disney.yaml}
+  YouTube:   {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.yaml,   path: ./YouTube.yaml}
+  Google:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.yaml,   path: ./Google.yaml}
+  BiliBili:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBili/BiliBili.yaml,   path: ./BiliBili.yaml}
+  Microsoft:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.yaml,   path: ./Microsoft.yaml}
+  Apple:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.yaml,   path: ./Apple.yaml}
+  Spotify:   {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.yaml,   path: ./Spotify.yaml}
+  Telegram:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml,   path: ./Telegram.yaml}
+  GlobalMedia:    {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.yaml,   path: ./GlobalMedia.yaml}
+  direct:    {<<: *a6, url: https://raw.githubusercontent.com/libra198666/iptv/main/github-emby-clash-direct.yaml,   path: ./direct.yaml}
+  cf:    {<<: *a6, url: https://raw.githubusercontent.com/libra198666/iptv/main/github-emby-clash-cf.yaml,   path: ./cf.yaml}
+  proxy:   {<<: *a6, url: https://raw.githubusercontent.com/libra198666/iptv/main/github-emby-clash-proxy.yaml,   path: ./proxy.yaml}
+  proxy2:   {<<: *a6, url: https://raw.githubusercontent.com/libra198666/iptv/main/github-emby-clash-proxy2.yaml,   path: ./proxy2.yaml}
+  China:   {<<: *a6, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.yaml,  path: ./China.yaml}
+  Global_Domain:  {<<: *a5, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global_Domain.yaml,  path: ./Global_Domain.yaml}
+  SYD:   {<<: *a6, url: https://raw.githubusercontent.com/qoli/SyncnextClash/main/Unbreak-classical.yaml,  path: ./SYD.yaml}
+  SYP:   {<<: *a6, url: https://raw.githubusercontent.com/qoli/SyncnextClash/main/proxy-classical.yaml,  path: ./SYP.yaml}
+  
+
+rules:
+# 内容：可以自行添加其它自己想要的规则
+# ACL4SSR Online
+ - RULE-SET,direct,🎥 直连
+ - RULE-SET,cf,🎥 CF
+ - RULE-SET,proxy,🎥 代理
+ - RULE-SET,proxy2,🎥 代理2
+ - RULE-SET,Advertising,🛑 全球拦截
+ - RULE-SET,Advertising_Domain,🛑 全球拦截
+ - RULE-SET,SYD,DIRECT
+ - RULE-SET,SYP,🔰 节点A
+ - RULE-SET,proxy2,🔰 节点A
+ - RULE-SET,Netflix,🎥 NETFLIX
+ - RULE-SET,Disney,🌍 国外媒体
+ - RULE-SET,YouTube,YouTube
+ - RULE-SET,Google,🔰 节点A
+ - RULE-SET,BiliBili,🎯 全球直连
+ - RULE-SET,Microsoft,Ⓜ️ 微软服务
+ - RULE-SET,Apple,🍎 苹果服务
+ - RULE-SET,Spotify,Spotify
+ - RULE-SET,Telegram,📲 电报信息
+ - RULE-SET,GlobalMedia,🌍 国外媒体
+ - RULE-SET,China,🎯 全球直连
+ - RULE-SET,Global_Domain,🌍 国外媒体
+ - GEOIP,CN,🎯 全球直连
+ - MATCH,🐟 漏网之鱼
