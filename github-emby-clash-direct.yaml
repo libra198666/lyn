@@ -41,7 +41,7 @@ payload:
   - DOMAIN-SUFFIX,public.emby.ws
   - DOMAIN-SUFFIX,front.gugumedia.link
   - DOMAIN-SUFFIX,push2.eastmoney.com
-  - DOMAIN-SUFFIX,o1098464.ingest.sentry.io
+  
 
 
 
