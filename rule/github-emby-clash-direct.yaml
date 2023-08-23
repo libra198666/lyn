@@ -107,6 +107,7 @@ payload:
   - DOMAIN,ctyunxs.cn
   - DOMAIN,hls.aoxtv.com
   - DOMAIN-KEYWORD,lz-cdn
+  - IP-CIDR,150.230.233.218/8
 
 
 
