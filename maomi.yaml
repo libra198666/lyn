@@ -16,7 +16,8 @@ dns:
     - tls://dns.google:853
 proxies:
   - {name: ☁️ WARP, server: 162.159.195.115, port: 3581, type: wireguard, ip: 172.16.0.2, ipv6: 2606:4700:110:8e06:2744:febd:9374:8455, private-key: wM3NaA4PwjgTChPwulTZbaSHUI26Lr0jHKE9JUFltFg=, public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=, dns: [1.1.1.1], mtu: 1280, udp: true, remote-dns-resolve: true, reserved: [51,147,4]}
-  - {name: 距离下次重置剩余：7 天, server: aca-ct-gz-2g-1.cfprefer1.xyz, port: 45611, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: eeefa42c-c0a3-4d30-86ca-37e4289e5d09, tfo: false}
+  - {name: ☁️ Work, server: hello-world-mute-fog-73a2.inson8666.workers.dev, port: 80, client-fingerprint: randomized, type: vless, uuid: ec9c1a06-5a60-4ebe-b933-fa267bc9086f, tls: false, tfo: false, servername: hello-world-mute-fog-73a2.inson8666.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: hello-world-mute-fog-73a2.inson8666.workers.dev}}}
+  - {name: Nether, server: us.netherserver.com, port: 26186, client-fingerprint: chrome, type: vless, uuid: 1cee1be8-7dfa-4935-83c4-6bdc072540b9, tls: false, tfo: false, servername: us.netherserver.com, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: us.netherserver.com}}}
   - {name: 🇭🇰 Hong Kong 01, server: aca-ct-gz-2g-1.cfprefer1.xyz, port: 45611, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: eeefa42c-c0a3-4d30-86ca-37e4289e5d09, tfo: false}
   - {name: 🇭🇰 Hong Kong 02, server: aca-ct-gz-2g-1.cfprefer1.xyz, port: 14149, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: eeefa42c-c0a3-4d30-86ca-37e4289e5d09, tfo: false}
   - {name: 🇭🇰 Hong Kong 03, server: aca-ct-gz-2g-1.cfprefer1.xyz, port: 10000, client-fingerprint: chrome, type: ss, cipher: aes-256-gcm, password: eeefa42c-c0a3-4d30-86ca-37e4289e5d09, tfo: false}
@@ -430,6 +431,8 @@ proxy-groups:
     type: select
     proxies:
       - ☁️ WARP
+      - ☁️ Work
+      - Nether
       - 🔰 节点A
       - 🔰 节点B
   - name: Google
