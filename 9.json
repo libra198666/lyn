@@ -1,4 +1,4 @@
-﻿﻿{
+﻿{
     "dns": {
         "rules": [
             {
@@ -308,7 +308,7 @@
             "network": "tcp"
         },
         {
-            "password": "ecefa42c-c0a3-4d30-86ca-37e4289e5d09",
+            "password": "eeefa42c-c0a3-4d30-86ca-37e4289e5d09",
             "server": "aca-ct-gz-2g-1.cfprefer1.xyz",
             "server_port": 14337,
             "tag": "🇸🇬 Singapore 01",
