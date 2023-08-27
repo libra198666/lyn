@@ -104,7 +104,7 @@
   },
   "outbounds": [
     {
-            "tag": "手动A",
+            "tag": "proxy",
             "type": "selector",
             "default": "auto",
             "outbounds": [                
@@ -1067,17 +1067,17 @@
       "tag": "google",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "auto",
         "direct"
       ],
-      "default": "手动A"
+      "default": "proxy"
     },
     {
       "tag": "apple",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "auto",
         "direct"
       ],
@@ -1087,7 +1087,7 @@
       "tag": "telegram",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "手动B",
         "auto",
         "direct"
@@ -1098,7 +1098,7 @@
       "tag": "bilibili",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "auto",
         "direct"
       ],
@@ -1108,11 +1108,11 @@
       "tag": "netflix",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "auto",
         "direct"
       ],
-      "default": "手动A"
+      "default": "proxy"
     },
     {
       "tag": "cn",
@@ -1120,7 +1120,7 @@
       "outbounds": [
         "direct",
         "auto",
-        "手动A"
+        "proxy"
       ],
       "default": "direct"
     },
@@ -1128,11 +1128,11 @@
       "tag": "final",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "auto",
         "direct"
       ],
-      "default": "手动A"
+      "default": "proxy"
     },
     {
       "tag": "dns",
@@ -1147,11 +1147,11 @@
       "tag": "GLOBAL",
       "type": "selector",
       "outbounds": [
-        "手动A",
+        "proxy",
         "auto",
         "direct"
       ],
-      "default": "手动A"
+      "default": "proxy"
     },
     {
       "tag": "auto",
