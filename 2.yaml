@@ -1089,7 +1089,9 @@
       "outbounds": [
         "手动A",
         "手动B",
-        ],
+        "auto",
+        "direct"
+      ],
       "default": "手动B"
     },
     {
