@@ -1,3 +1,4 @@
+
 # NAME: 直连
 payload:
   - DOMAIN-KEYWORD,123emby.quest
@@ -51,7 +52,7 @@ payload:
   - DOMAIN-SUFFIX,amazing910.top
   - DOMAIN-SUFFIX,de.mjjemby.org
   - DOMAIN-SUFFIX,bsem.ddns.me
-  - DOMAIN-SUFFIX,kr.embymv.tk
+  - DOMAIN-SUFFIX,embymv.tk
   - DOMAIN-SUFFIX,cdn.embytv.cf
   - DOMAIN-SUFFIX,vx.infinityfly.top
   - DOMAIN-SUFFIX,one.mulgore.net
