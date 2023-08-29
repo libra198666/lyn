@@ -3723,6 +3723,8 @@ rules:
   - DOMAIN-SUFFIX,zsag1.miwuwan.com,🎥 直连
   - DOMAIN-SUFFIX,public.emby.ws,🎥 直连
   - DOMAIN-SUFFIX,front.gugumedia.link,🎥 直连
+  - DOMAIN-SUFFIX,us.zerodisk.site,🎥 直连
+  - DOMAIN-SUFFIX,emby.lzlz.eu.org,🎥 直连
   - DOMAIN-SUFFIX,ws.embyus.bili.rip,🎥 直连
   - DOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
   - DOMAIN-SUFFIX,amazing910.top,🎥 直连
