@@ -275,7 +275,6 @@ proxy-groups:
     interval: 300
     tolerance: 100
     proxies:
-      - 距离下次重置剩余：7 天
       - 🇭🇰 Hong Kong 01
       - 🇭🇰 Hong Kong 02
       - 🇭🇰 Hong Kong 03
