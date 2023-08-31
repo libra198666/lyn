@@ -3753,6 +3753,8 @@ rules:
   - DOMAIN-SUFFIX,play.acemby.org,🎥 直连
   - DOMAIN-SUFFIX,emby.lzlz.cc,🎥 直连
   - DOMAIN-SUFFIX,vip.ffzy-online5.com,🎥 直连
+  - DOMAIN-SUFFIX,emby.bangumi.ca,🎥 直连
+  - DOMAIN-SUFFIX,cherrytv.one,🎥 直连
   - DOMAIN-SUFFIX,11.loseremby.org,🎥 CF
   - DOMAIN-SUFFIX,cf.emby.ml,🎥 CF
   - DOMAIN-SUFFIX,cf3.misakaf.org,🎥 CF
