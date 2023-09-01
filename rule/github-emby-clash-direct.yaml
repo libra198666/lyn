@@ -112,6 +112,8 @@ payload:
   - DOMAIN,hls.aoxtv.com
   - DOMAIN-KEYWORD,lz-cdn
   - IP-CIDR,150.230.233.218/8
+  - IP-CIDR,1.1.1.1/32
+  - IP-CIDR,8.8.8.8/32
 
 
 
