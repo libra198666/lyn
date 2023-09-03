@@ -884,17 +884,9 @@
       "server_port": 3581,
       "tag": "☁️ WARP",
       "type": "wireguard",
-      "local_address": [
-            "172.16.0.2/32",
-            "2606:4700:110:8e06:2744:febd:9374:8455/128"
-      ],
+      "local_address": "172.16.0.2/32",
       "private_key": "wM3NaA4PwjgTChPwulTZbaSHUI26Lr0jHKE9JUFltFg=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [
-           51,
-           147,
-           4
-      ],
       "mtu": 1280
     },
     {
