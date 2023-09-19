@@ -884,7 +884,6 @@
       "server_port": 3581,
       "tag": "☁️ WARP",
       "type": "wireguard",
-      "dns": "1.1.1.1",
       "local_address": "172.16.0.2/32",
       "private_key": "wM3NaA4PwjgTChPwulTZbaSHUI26Lr0jHKE9JUFltFg=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
