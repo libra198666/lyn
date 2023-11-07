@@ -90,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,cdn07-kent-tokyo.lincent.org
   - DOMAIN-SUFFIX,cdn08-pixel-chuncheon.lincent.org
   - DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org
+  - DOMAIN-SUFFIX,film.reddust.link
 
 
   - DOMAIN,movie.douban.com
