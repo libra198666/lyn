@@ -1,8 +1,10 @@
 # NAME: 直连
 DOMAIN-KEYWORD,123emby.quest,🎥 直连
 DOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
-DOMAIN-SUFFIX,cc.ccemby.ml,🎥 直连
-DOMAIN-SUFFIX,dx1.ccemby.ga,🎥 直连
+DOMAIN,cc.ccemby.ml,🎥 直连
+DOMAIN,dx1.ccemby.ga,🎥 直连
+DOMAIN,cc.ccemby.tk,🎥 直连
+DOMAIN-SUFFIX,plexvideos.com,🎥 直连
 DOMAIN-SUFFIX,cdn.misakaf.org,🎥 直连
 DOMAIN-SUFFIX,nebula-emby.com,🎥 直连
 DOMAIN-SUFFIX,embyru.222921.xyz,🎥 直连
@@ -23,7 +25,6 @@ DOMAIN-SUFFIX,tank88.top,🎥 直连
 DOMAIN-SUFFIX,ju.dog,🎥 直连
 DOMAIN-SUFFIX,sf.poloemby.xyz,🎥 直连
 DOMAIN-SUFFIX,emby.ednovas.org,🎥 直连
-DOMAIN-SUFFIX,cc.ccemby.tk,🎥 直连
 DOMAIN-SUFFIX,emby.dicarerhome.com,🎥 直连
 DOMAIN-SUFFIX,emby-play.dicarerhome.com,🎥 直连
 DOMAIN-SUFFIX,dx1.carryz.net,🎥 直连
