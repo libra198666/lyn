@@ -3,8 +3,10 @@
 payload:
   - DOMAIN-KEYWORD,123emby.quest
   - DOMAIN-SUFFIX,vip.pornemby.xyz
-  - DOMAIN-SUFFIX,cc.ccemby.ml
-  - DOMAIN-SUFFIX,dx1.ccemby.ga
+  - DOMAIN,cc.ccemby.ml
+  - DOMAIN,dx1.ccemby.ga
+  - DOMAIN,cc.ccemby.tk
+  - DOMAIN-SUFFIX,plexvideos.com
   - DOMAIN-SUFFIX,cdn.misakaf.org
   - DOMAIN-SUFFIX,nebula-emby.com
   - DOMAIN-SUFFIX,embyru.222921.xyz
@@ -25,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,ju.dog
   - DOMAIN-SUFFIX,sf.poloemby.xyz
   - DOMAIN-SUFFIX,emby.ednovas.org
-  - DOMAIN-SUFFIX,cc.ccemby.tk
   - DOMAIN-SUFFIX,emby.dicarerhome.com
   - DOMAIN-SUFFIX,emby-play.dicarerhome.com
   - DOMAIN-SUFFIX,dx1.carryz.net
@@ -34,7 +35,6 @@ payload:
   - DOMAIN-SUFFIX,jz.mcjoker.xyz
   - DOMAIN-SUFFIX,emby3.mcjoker.xyz
   - DOMAIN-SUFFIX,emby.freetz.top
-  - DOMAIN-KEYWORD,ccemby
   - DOMAIN-SUFFIX,starcat.eu.org
   - DOMAIN-SUFFIX,kikiemby.top
   - DOMAIN-SUFFIX,zsag1.miwuwan.com
