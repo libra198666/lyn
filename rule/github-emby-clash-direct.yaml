@@ -8,6 +8,7 @@ payload:
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
   - DOMAIN,cc.ccemby.tk
+  - DOMAIN-SUFFIX,plex.ccemby.live
   - DOMAIN-SUFFIX,plexvideos.com
   - DOMAIN-SUFFIX,cdn.misakaf.org
   - DOMAIN-SUFFIX,nebula-emby.com
