@@ -109,3 +109,6 @@ DOMAIN,ctyunxs.cn,🎥 直连
 DOMAIN,hls.aoxtv.com,🎥 直连
 DOMAIN-KEYWORD,lz-cdn,🎥 直连
 IP-CIDR,150.230.233.218/8,🎥 直连
+# > git
+DOMAIN,fastly.jsdelivr.net,🎥 直连
+DOMAIN,mirror.ghproxy.com,🎥 直连
