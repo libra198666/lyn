@@ -1,8 +1,10 @@
 
 # NAME: 直连
 payload:
+   
   - DOMAIN-KEYWORD,123emby.quest
   - DOMAIN-SUFFIX,vip.pornemby.xyz
+  # > cc
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
   - DOMAIN,cc.ccemby.tk
