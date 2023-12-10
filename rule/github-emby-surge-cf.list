@@ -1,24 +1,7 @@
 # NAME: cf切换
-DOMAIN-SUFFIX,11.loseremby.org
-DOMAIN-SUFFIX,cf.emby.ml
-DOMAIN-SUFFIX,cf3.misakaf.org
-DOMAIN-SUFFIX,film.nmg.llc
-DOMAIN-SUFFIX,emby.xmss.vip
-DOMAIN-SUFFIX,cfca.emby.ml
-DOMAIN-SUFFIX,cf.222921.xyz
-DOMAIN-SUFFIX,o9o.ocd0522.tk
-DOMAIN-SUFFIX,cf.studyfun.live
-DOMAIN-SUFFIX,cf.embytv.cf
-DOMAIN-SUFFIX,film.goodisp.org
-DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,bili.bili.rip
-DOMAIN-SUFFIX,cf.mjjemby.org
-DOMAIN-SUFFIX,cf.studyfun.live
-DOMAIN-SUFFIX,emby.agon.cf
-DOMAIN-SUFFIX,cf.freetz.top
-DOMAIN-SUFFIX,stream.freetz.top
-DOMAIN-SUFFIX,scf.poloemby.xyz
-DOMAIN-SUFFIX,flare.timeouts.info
-DOMAIN-SUFFIX,free.emby.eu.org
-DOMAIN-SUFFIX,cf.shuipo.lol
-DOMAIN-SUFFIX,aca.best
+  # > nm
+  - DOMAIN,film.nmg.llc
+  - DOMAIN-SUFFIX,film.goodisp.org
+  # > 魔法
+  - DOMAIN-SUFFIX,cf.freetz.top
+  - DOMAIN-SUFFIX,stream.freetz.top  
