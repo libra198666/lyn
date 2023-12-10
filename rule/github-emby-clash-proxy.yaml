@@ -2,7 +2,7 @@
 payload:
   # > pornemby
   - DOMAIN-SUFFIX,pornemby.club
- # > cc音乐plex
+  # > cc音乐plex
   - DOMAIN-SUFFIX,plex.ccemby.live
   
   # > 短链
