@@ -1,8 +1,14 @@
+# NAME: 代理
+# pornemby
 DOMAIN-SUFFIX,pornemby.club,🎥 代理
-DOMAIN-SUFFIX,emby.speedx.one,🎥 代理
-DOMAIN-SUFFIX,emby.9191001.xyz,🎥 代理
-DOMAIN-KEYWORD,misty,🎥 代理
+# cc音乐plex
+DOMAIN-SUFFIX,plex.ccemby.live,🎥 代理
+  
+# 短链
 DOMAIN,v1.mk,🎥 代理
+# misty
+DOMAIN-KEYWORD,misty,🎥 代理
+# syc
 DOMAIN,notion-api.splitbee.io,🎥 代理
 DOMAIN,themoviedb.org,🎥 代理
 DOMAIN,thetvdb.com,🎥 代理
@@ -16,4 +22,3 @@ DOMAIN,cdn.venus7202.com,🎥 代理
 DOMAIN,cdn.ceres9350.com,🎥 代理
 DOMAIN,cdn.efhie.com,🎥 代理
 DOMAIN,czzy.site,🎥 代理
-DOMAIN-SUFFIX,plex.ccemby.live,🎥 代理
