@@ -1,7 +1,9 @@
 # NAME: 代理
 payload:
-  - DOMAIN-SUFFIX,emby.shuipo.lol
+  # > 卡戎
   - DOMAIN-SUFFIX,play.charontv.com
+  # > 猫熊
   - DOMAIN-SUFFIX,emby.kim
+  # > 菜市场
   - DOMAIN-SUFFIX,ntrrr.am.sb
 
