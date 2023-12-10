@@ -2,17 +2,13 @@
 payload:
   # > pornemby
   - DOMAIN-SUFFIX,pornemby.club
+ # > cc音乐plex
+  - DOMAIN-SUFFIX,plex.ccemby.live
   
-  - DOMAIN-SUFFIX,emby.speedx.one
-  - DOMAIN-SUFFIX,emby.9191001.xyz
+  # > 短链
+  - DOMAIN,v1.mk
   # > misty
   - DOMAIN-KEYWORD,misty
-  
-
-  - DOMAIN-SUFFIX,plex.ccemby.live
-   # > 短链
-  - DOMAIN,v1.mk
-
   # > syc
   - DOMAIN,notion-api.splitbee.io
   - DOMAIN,themoviedb.org
