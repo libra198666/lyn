@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,s.ii00.cc
   # > gugu
   - DOMAIN-SUFFIX,gugumedia.link
+  # > aca
+  - DOMAIN-SUFFIX,aca.best
   # > cc
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
