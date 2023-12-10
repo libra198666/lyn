@@ -1,35 +1,24 @@
 # NAME: 代理
+# pornemby
 DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,emby.speedx.one
-DOMAIN-SUFFIX,emby.9191001.xyz
-DOMAIN-KEYWORD,misty
-DOMAIN,v1.mk
-DOMAIN,notion-api.splitbee.io
-DOMAIN,themoviedb.org
-DOMAIN,thetvdb.com
-DOMAIN,tmdb.org
-DOMAIN,discord.com
-DOMAIN,olevod.com
-DOMAIN,olemovienews.com
-DOMAIN,haiwaikan.com
-DOMAIN,bfvvs.com
-DOMAIN,cdn.venus7202.com
-DOMAIN,cdn.ceres9350.com
-DOMAIN,cdn.efhie.com
-DOMAIN,czzy.site
-
-DOMAIN,v1.mk
-DOMAIN,notion-api.splitbee.io
-DOMAIN,themoviedb.org
-DOMAIN,thetvdb.com
-DOMAIN,tmdb.org
-DOMAIN,discord.com
-DOMAIN,olevod.com
-DOMAIN,olemovienews.com
-DOMAIN,haiwaikan.com
-DOMAIN,bfvvs.com
-DOMAIN,cdn.venus7202.com
-DOMAIN,cdn.ceres9350.com
-DOMAIN,cdn.efhie.com
-DOMAIN,czzy.site
+# cc音乐plex
 DOMAIN-SUFFIX,plex.ccemby.live
+  
+#  短链
+DOMAIN,v1.mk
+# misty
+DOMAIN-KEYWORD,misty
+# syc
+DOMAIN,notion-api.splitbee.io
+DOMAIN,themoviedb.org
+DOMAIN,thetvdb.com
+DOMAIN,tmdb.org
+DOMAIN,discord.com
+DOMAIN,olevod.com
+DOMAIN,olemovienews.com
+DOMAIN,haiwaikan.com
+DOMAIN,bfvvs.com
+DOMAIN,cdn.venus7202.com
+DOMAIN,cdn.ceres9350.com
+DOMAIN,cdn.efhie.com
+DOMAIN,czzy.site
