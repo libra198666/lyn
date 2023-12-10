@@ -1,80 +1,80 @@
 
-# NAME: 直连
-  # gugu
+# > NAME: 直连
+# > gugu
 DOMAIN-SUFFIX,gugumedia.link
-  # 不给看
+# > 不给看
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,emby.gtma.top
-  # aca
+# > aca
 DOMAIN-SUFFIX,aca.best
-  # cc
+# > cc
 DOMAIN,cc.ccemby.ml
 DOMAIN,dx1.ccemby.ga
 DOMAIN,cc.ccemby.tk
-  # 自行车
+# > 自行车
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,xmsl.org
-  # jms
+# > jms
 DOMAIN-SUFFIX,jmsooo.com
 
 
-  # 桃子
+# > 桃子
 DOMAIN-SUFFIX,embymv.tk
-  # plex
+# > plex
 DOMAIN-SUFFIX,plexvideos.com
-  # misakaf
+# > misakaf
 DOMAIN-SUFFIX,cdn.misakaf.org
-  # 98
+# > 98
 DOMAIN-SUFFIX,the98.ltd
-  # 魔法
+# > 魔法
 DOMAIN-SUFFIX,emby.freetz.top
-  # polo
+# > polo
 DOMAIN-SUFFIX,poloemby.xyz
-  # mjj
+# > mjj
 DOMAIN-SUFFIX,de.mjjemby.org
-  # 梁山
+# > 梁山
 DOMAIN-SUFFIX,shuipo.lol
 
 
 
-  # hxd
+# > hxd
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,embyru.222921.xyz
-  # 私人影院
+# > 私人影院
 DOMAIN-SUFFIX,agon.cf
-  # 尘烬
+# > 尘烬
 DOMAIN-SUFFIX,emby.eu.org
-  # 树状图
+# > 树状图
 DOMAIN-SUFFIX,789.123456.al  
-  # 田小瑞
+# > 田小瑞
 DOMAIN-SUFFIX,us.zerodisk.site 
-  # NYA
+# > NYA
 DOMAIN-SUFFIX,emby.bangumi.ca
-  # dv
+  # > dv
 DOMAIN-SUFFIX,lzlz.cc
-  # infinityfly
+# > infinityfly
 DOMAIN-SUFFIX,vx.infinityfly.top
-  # NM
+# > NM
 DOMAIN-SUFFIX,film.nmg.llc
-  # PAUL
+# > PAUL
 DOMAIN-SUFFIX,imetyou.top
-  # singularity
+# > singularity
 DOMAIN-SUFFIX,singularity.deja-vu.beauty
-  # 纸片人
+# > 纸片人
 DOMAIN-SUFFIX,embyplus.org
 
 
 
-  # 叔服
+# > 叔服
 DOMAIN-SUFFIX,jz.mcjoker.xyz
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
-  # pornemby vip
+# > pornemby vip
 DOMAIN-SUFFIX,vip.pornemby.xyz
 DOMAIN-SUFFIX,s.ii00.cc
 
 
 
-  # sync
+# > sync
 DOMAIN,movie.douban.com
 DOMAIN,mddcloud.com.cn
 DOMAIN,aliyundrive.asia
@@ -94,21 +94,21 @@ DOMAIN,ctyunxs.cn
 DOMAIN,hls.aoxtv.com
 DOMAIN-KEYWORD,lz-cdn
 IP-CIDR,150.230.233.218/8
-  # git
+# > git
 DOMAIN,fastly.jsdelivr.net
 DOMAIN,mirror.ghproxy.com
-  # 股吧
+# > 股吧
 DOMAIN-SUFFIX,push2.eastmoney.com 
-  # 低端影视
+# > 低端影视
 DOMAIN-KEYWORD,ddys
-  # 飞凡
+# > 飞凡
 DOMAIN-SUFFIX,vip.ffzy-online5.com
 
 
 
 
 
-  # 弃
+# > 弃
 DOMAIN-SUFFIX,emby.xiaoyi.one
 DOMAIN-SUFFIX,tank88.top
 DOMAIN-SUFFIX,ju.dog
@@ -117,22 +117,22 @@ DOMAIN-SUFFIX,emby.lzlz.eu.org
 DOMAIN-SUFFIX,cdn.embytv.cf
 DOMAIN-SUFFIX,emby.wiri.tk
 DOMAIN-SUFFIX,emby.xmss.vip
-  # mulgore
+# > mulgore
 DOMAIN-SUFFIX,one.mulgore.net
-  # embyhub
+# > embyhub
 DOMAIN-SUFFIX,emby.ednovas.org
 
-  # 星猫
+# > 星猫
 DOMAIN-SUFFIX,starcat.eu.org
-  # 蓝海
+# > 蓝海
 DOMAIN-SUFFIX,public.emby.ws
-  # cherry
+# > cherry
 DOMAIN-SUFFIX,cherrytv.one
-  # 水母
+# > 水母
 DOMAIN-SUFFIX,amazing910.top
-  # 野兽
+# > 野兽
 DOMAIN-SUFFIX,emby.mius.uk
-  # ace
+# > ace
 DOMAIN-SUFFIX,play.acemby.org
 
 
