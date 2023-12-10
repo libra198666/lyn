@@ -99,8 +99,6 @@ DOMAIN,fastly.jsdelivr.net,🎥 直连
 DOMAIN,mirror.ghproxy.com,🎥 直连
 # > 股吧
 DOMAIN-SUFFIX,push2.eastmoney.com ,🎥 直连
-# > 低端影视
-DOMAIN-KEYWORD,ddys,🎥 直连
 # > 飞凡
 DOMAIN-SUFFIX,vip.ffzy-online5.com,🎥 直连
 
