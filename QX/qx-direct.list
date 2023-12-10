@@ -1,101 +1,86 @@
+
 # NAME: 直连
-DOMAIN-KEYWORD,123emby.quest,🎥 直连
-DOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
+# > gugu
+DOMAIN-SUFFIX,gugumedia.link,🎥 直连
+# > 不给看
+DOMAIN-SUFFIX,emby.pro,🎥 直连
+DOMAIN-SUFFIX,emby.gtma.top,🎥 直连
+# > aca
+DOMAIN-SUFFIX,aca.best,🎥 直连
+# > cc
 DOMAIN,cc.ccemby.ml,🎥 直连
 DOMAIN,dx1.ccemby.ga,🎥 直连
 DOMAIN,cc.ccemby.tk,🎥 直连
+# > 自行车
+DOMAIN-SUFFIX,emby.ml,🎥 直连
+DOMAIN-SUFFIX,xmsl.org,🎥 直连
+# > jms
+DOMAIN-SUFFIX,jmsooo.com,🎥 直连
+
+
+# > 桃子
+DOMAIN-SUFFIX,embymv.tk,🎥 直连
+# > plex
 DOMAIN-SUFFIX,plexvideos.com,🎥 直连
+# > misakaf
 DOMAIN-SUFFIX,cdn.misakaf.org,🎥 直连
-DOMAIN-SUFFIX,nebula-emby.com,🎥 直连
-DOMAIN-SUFFIX,embyru.222921.xyz,🎥 直连
+# > 98
 DOMAIN-SUFFIX,the98.ltd,🎥 直连
-DOMAIN-SUFFIX,ca.emby.ml,🎥 直连
-DOMAIN-SUFFIX,emby.pro,🎥 直连
-DOMAIN-SUFFIX,s.ii00.cc,🎥 直连
-DOMAIN-SUFFIX,4837.emby.ml,🎥 直连
-DOMAIN-SUFFIX,one.mulgore.net,🎥 直连
-DOMAIN-SUFFIX,emby.gtma.top,🎥 直连
-DOMAIN-SUFFIX,cdn.studyfun.live,🎥 直连
-DOMAIN-SUFFIX,cdn1.studyfun.live,🎥 直连
-DOMAIN-SUFFIX,stream.studyfun.live,🎥 直连
-DOMAIN-SUFFIX,stream1.studyfun.live,🎥 直连
-DOMAIN-SUFFIX,789.123456.al ,🎥 直连
-DOMAIN-SUFFIX,emby.xiaoyi.one,🎥 直连
-DOMAIN-SUFFIX,tank88.top,🎥 直连
-DOMAIN-SUFFIX,ju.dog,🎥 直连
-DOMAIN-SUFFIX,sf.poloemby.xyz,🎥 直连
-DOMAIN-SUFFIX,emby.ednovas.org,🎥 直连
-DOMAIN-SUFFIX,emby.dicarerhome.com,🎥 直连
-DOMAIN-SUFFIX,emby-play.dicarerhome.com,🎥 直连
-DOMAIN-SUFFIX,dx1.carryz.net,🎥 直连
-DOMAIN-SUFFIX,spd.poloemby.xyz,🎥 直连
-DOMAIN-SUFFIX,zdb.xiaoyi.one,🎥 直连
+# > 魔法
+DOMAIN-SUFFIX,emby.freetz.top,🎥 直连
+# > polo
+DOMAIN-SUFFIX,poloemby.xyz,🎥 直连
+# > mjj
+DOMAIN-SUFFIX,de.mjjemby.org,🎥 直连
+# > 梁山
+DOMAIN-SUFFIX,shuipo.lol,🎥 直连
+
+
+
+# > hxd
+DOMAIN-SUFFIX,bili.rip,🎥 直连
+DOMAIN-SUFFIX,embyru.222921.xyz,🎥 直连
+# > 私人影院
+DOMAIN-SUFFIX,agon.cf,🎥 直连
+# > 尘烬
+DOMAIN-SUFFIX,emby.eu.org,🎥 直连
+# > 树状图
+DOMAIN-SUFFIX,789.123456.al,🎥 直连
+# > 田小瑞
+DOMAIN-SUFFIX,us.zerodisk.site,🎥 直连
+# > NYA
+DOMAIN-SUFFIX,emby.bangumi.ca,🎥 直连
+  # > dv
+DOMAIN-SUFFIX,lzlz.cc,🎥 直连
+# > infinityfly
+DOMAIN-SUFFIX,vx.infinityfly.top,🎥 直连
+# > NM
+DOMAIN-SUFFIX,film.nmg.llc,🎥 直连
+# > PAUL
+DOMAIN-SUFFIX,imetyou.top,🎥 直连
+# > singularity
+DOMAIN-SUFFIX,singularity.deja-vu.beauty,🎥 直连
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org,🎥 直连
+
+
+
+# > 叔服
 DOMAIN-SUFFIX,jz.mcjoker.xyz,🎥 直连
 DOMAIN-SUFFIX,emby3.mcjoker.xyz,🎥 直连
-DOMAIN-SUFFIX,emby.freetz.top,🎥 直连
-DOMAIN-SUFFIX,starcat.eu.org,🎥 直连
-DOMAIN-SUFFIX,kikiemby.top,🎥 直连
-DOMAIN-SUFFIX,zsag1.miwuwan.com,🎥 直连
-DOMAIN-SUFFIX,public.emby.ws,🎥 直连
-DOMAIN-SUFFIX,front.gugumedia.link,🎥 直连
-DOMAIN-SUFFIX,push2.eastmoney.com,🎥 直连
-DOMAIN-SUFFIX,us.zerodisk.site,🎥 直连
-DOMAIN-SUFFIX,emby.lzlz.eu.org,🎥 直连
-DOMAIN-SUFFIX,emby.bangumi.ca,🎥 直连
-DOMAIN-SUFFIX,cherrytv.one,🎥 直连
-
-
-
-DOMAIN-SUFFIX,bili.rip,🎥 直连
+# > pornemby vip
 DOMAIN-SUFFIX,vip.pornemby.xyz,🎥 直连
-DOMAIN-SUFFIX,amazing910.top,🎥 直连
-DOMAIN-SUFFIX,de.mjjemby.org,🎥 直连
-DOMAIN-SUFFIX,bsem.Dns.me,🎥 直连
-DOMAIN-SUFFIX,embymv.tk,🎥 直连
-DOMAIN-SUFFIX,cdn.embytv.cf,🎥 直连
-DOMAIN-SUFFIX,vx.infinityfly.top,🎥 直连
-DOMAIN-SUFFIX,one.mulgore.net,🎥 直连
-DOMAIN-SUFFIX,film.nmg.llc,🎥 直连
-DOMAIN-SUFFIX,embyus.bili.rip,🎥 直连
-DOMAIN-SUFFIX,emby.imetyou.top,🎥 直连
-DOMAIN-SUFFIX,singularity.deja-vu.beauty,🎥 直连
-DOMAIN-SUFFIX,emby.wiri.tk,🎥 直连
-DOMAIN-SUFFIX,embyplus.org,🎥 直连
-DOMAIN-SUFFIX,gd.9521732.xyz,🎥 直连
-DOMAIN-SUFFIX,emby.mius.uk,🎥 直连
-DOMAIN-SUFFIX,emby2.agon.cf,🎥 直连
-
-DOMAIN-SUFFIX,singularity.deja-vu.beauty,🎥 直连
-DOMAIN-SUFFIX,emby.wiri.tk,🎥 直连
-DOMAIN-SUFFIX,embyplus.org,🎥 直连
-DOMAIN-SUFFIX,gd.9521732.xyz,🎥 直连
-DOMAIN-KEYWORD,Dys,🎥 直连
-DOMAIN-SUFFIX,emby.xmss.vip,🎥 直连
-DOMAIN-SUFFIX,sana.emby.eu.org,🎥 直连
-DOMAIN-SUFFIX,play.acemby.org,🎥 直连
-DOMAIN-SUFFIX,emby.lzlz.cc,🎥 直连
-DOMAIN-SUFFIX,vip.ffzy-online5.com,🎥 直连
-
-DOMAIN-SUFFIX,magpie.cyou,🎥 直连
-DOMAIN-SUFFIX,magpiecdn.eu.org,🎥 直连
-DOMAIN-SUFFIX,cdn01-kent-seoul.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn02-zhizhi-seoul.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn03-sc-seoul.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn04-zhizhi-seoul.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn05-pixel-seoul.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn06-hou-seoul.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn07-kent-tokyo.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn08-pixel-chuncheon.lincent.org,🎥 直连
-DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org,🎥 直连
-DOMAIN-SUFFIX,film.reddust.link,🎥 直连
+DOMAIN-SUFFIX,s.ii00.cc,🎥 直连
 
 
+
+# > sync
 DOMAIN,movie.douban.com,🎥 直连
-DOMAIN,mDcloud.com.cn,🎥 直连
+DOMAIN,mddcloud.com.cn,🎥 直连
 DOMAIN,aliyundrive.asia,🎥 直连
-DOMAIN,v.Dys.zip,🎥 直连
-DOMAIN,v.Dys.pro,🎥 直连
-DOMAIN,Dys.art,🎥 直连
+DOMAIN,v.ddys.zip,🎥 直连
+DOMAIN,v.ddys.pro,🎥 直连
+DOMAIN,ddys.art,🎥 直连
 DOMAIN,zh188.net,🎥 直连
 DOMAIN,cz.cz01.site,🎥 直连
 DOMAIN,www.m3u8.tv.jiexi.8old.cn,🎥 直连
@@ -112,3 +97,63 @@ IP-CIDR,150.230.233.218/8,🎥 直连
 # > git
 DOMAIN,fastly.jsdelivr.net,🎥 直连
 DOMAIN,mirror.ghproxy.com,🎥 直连
+# > 股吧
+DOMAIN-SUFFIX,push2.eastmoney.com ,🎥 直连
+# > 低端影视
+DOMAIN-KEYWORD,ddys
+# > 飞凡
+DOMAIN-SUFFIX,vip.ffzy-online5.com,🎥 直连
+
+
+
+
+
+# > 弃
+DOMAIN-SUFFIX,emby.xiaoyi.one,🎥 直连
+DOMAIN-SUFFIX,tank88.top,🎥 直连
+DOMAIN-SUFFIX,ju.dog,🎥 直连
+DOMAIN-SUFFIX,zsag1.miwuwan.com,🎥 直连
+DOMAIN-SUFFIX,emby.lzlz.eu.org,🎥 直连
+DOMAIN-SUFFIX,cdn.embytv.cf,🎥 直连
+DOMAIN-SUFFIX,emby.wiri.tk,🎥 直连
+DOMAIN-SUFFIX,emby.xmss.vip,🎥 直连
+# > mulgore
+DOMAIN-SUFFIX,one.mulgore.net,🎥 直连
+# > embyhub
+DOMAIN-SUFFIX,emby.ednovas.org,🎥 直连
+# > 星猫
+DOMAIN-SUFFIX,starcat.eu.org,🎥 直连
+# > 蓝海
+DOMAIN-SUFFIX,public.emby.ws,🎥 直连
+# > cherry
+DOMAIN-SUFFIX,cherrytv.one,🎥 直连
+# > 水母
+DOMAIN-SUFFIX,amazing910.top,🎥 直连
+# > 野兽,
+DOMAIN-SUFFIX,emby.mius.uk,🎥 直连
+# > ace
+DOMAIN-SUFFIX,play.acemby.org,🎥 直连
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
