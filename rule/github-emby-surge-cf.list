@@ -1,7 +1,7 @@
 # NAME: cf切换
-  # > nm
-  - DOMAIN,film.nmg.llc
-  - DOMAIN-SUFFIX,film.goodisp.org
-  # > 魔法
-  - DOMAIN-SUFFIX,cf.freetz.top
-  - DOMAIN-SUFFIX,stream.freetz.top  
+# > nm
+DOMAIN,film.nmg.llc
+DOMAIN-SUFFIX,film.goodisp.org
+# > 魔法
+DOMAIN-SUFFIX,cf.freetz.top
+DOMAIN-SUFFIX,stream.freetz.top  
