@@ -14,14 +14,13 @@ payload:
   - DOMAIN-SUFFIX,plexvideos.com
   # > misakaf
   - DOMAIN-SUFFIX,cdn.misakaf.org
-  
-  - DOMAIN-SUFFIX,embyru.222921.xyz
   # > 98
   - DOMAIN-SUFFIX,the98.ltd
   # > 自行车
   - DOMAIN-SUFFIX,emby.ml
   # > 不给看
   - DOMAIN-SUFFIX,emby.pro
+  - DOMAIN-SUFFIX,emby.gtma.top
   # > mulgore
   - DOMAIN-SUFFIX,one.mulgore.net
   # > 树状图
@@ -40,44 +39,45 @@ payload:
   - DOMAIN-SUFFIX,starcat.eu.org
   # > 蓝海
   - DOMAIN-SUFFIX,public.emby.ws
-
-  - DOMAIN-SUFFIX,push2.eastmoney.com
+  # > 田小瑞
   - DOMAIN-SUFFIX,us.zerodisk.site
-  - DOMAIN-SUFFIX,emby.lzlz.eu.org
+  
+  # > NYA
   - DOMAIN-SUFFIX,emby.bangumi.ca
+  # > cherry
   - DOMAIN-SUFFIX,cherrytv.one
 
 
-
+  # > hxd
   - DOMAIN-SUFFIX,bili.rip
-  - DOMAIN-SUFFIX,vip.pornemby.xyz
+  - DOMAIN-SUFFIX,embyru.222921.xyz
+  # > 水母
   - DOMAIN-SUFFIX,amazing910.top
+  # > mjj
   - DOMAIN-SUFFIX,de.mjjemby.org
-  - DOMAIN-SUFFIX,bsem.ddns.me
+  # > 桃子
   - DOMAIN-SUFFIX,embymv.tk
-  - DOMAIN-SUFFIX,cdn.embytv.cf
+  # > infinityfly
   - DOMAIN-SUFFIX,vx.infinityfly.top
-  - DOMAIN-SUFFIX,one.mulgore.net
+  # > NM
   - DOMAIN-SUFFIX,film.nmg.llc
-  - DOMAIN-SUFFIX,embyus.bili.rip
-  - DOMAIN-SUFFIX,emby.imetyou.top
+  # > PAUL
+  - DOMAIN-SUFFIX,imetyou.top
+  # > singularity
   - DOMAIN-SUFFIX,singularity.deja-vu.beauty
-  - DOMAIN-SUFFIX,emby.wiri.tk
+  # > 纸片人
   - DOMAIN-SUFFIX,embyplus.org
-  - DOMAIN-SUFFIX,gd.9521732.xyz
+  # > 野兽
   - DOMAIN-SUFFIX,emby.mius.uk
-  - DOMAIN-SUFFIX,emby2.agon.cf
-
-  - DOMAIN-SUFFIX,singularity.deja-vu.beauty
-  - DOMAIN-SUFFIX,emby.wiri.tk
-  - DOMAIN-SUFFIX,embyplus.org
-  - DOMAIN-SUFFIX,gd.9521732.xyz
-  - DOMAIN-KEYWORD,ddys
-  - DOMAIN-SUFFIX,emby.xmss.vip
-  - DOMAIN-SUFFIX,sana.emby.eu.org
+  # > 私人影院
+  - DOMAIN-SUFFIX,agon.cf
+  # > 尘烬
+  - DOMAIN-SUFFIX,emby.eu.org
+  # > ace
   - DOMAIN-SUFFIX,play.acemby.org
-  - DOMAIN-SUFFIX,emby.lzlz.cc
-  - DOMAIN-SUFFIX,vip.ffzy-online5.com
+  # > dv
+  - DOMAIN-SUFFIX,lzlz.cc
+
 
 
   # > sync
@@ -103,21 +103,24 @@ payload:
   # > git
   - DOMAIN,fastly.jsdelivr.net
   - DOMAIN,mirror.ghproxy.com
-   
+  # > 股吧
+  - DOMAIN-SUFFIX,push2.eastmoney.com 
+  # > 低端影视
+  - DOMAIN-KEYWORD,ddys
+  # > 飞凡
+  - DOMAIN-SUFFIX,vip.ffzy-online5.com
 
 
 
   # > 弃
-  
   - DOMAIN-SUFFIX,emby.xiaoyi.one
   - DOMAIN-SUFFIX,tank88.top
   - DOMAIN-SUFFIX,ju.dog
-  - DOMAIN-SUFFIX,emby.gtma.top
   - DOMAIN-SUFFIX,zsag1.miwuwan.com
-
-
-
-
+  - DOMAIN-SUFFIX,emby.lzlz.eu.org
+  - DOMAIN-SUFFIX,cdn.embytv.cf
+  - DOMAIN-SUFFIX,emby.wiri.tk
+  - DOMAIN-SUFFIX,emby.xmss.vip
 
 
 
