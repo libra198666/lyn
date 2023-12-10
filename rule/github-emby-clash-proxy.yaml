@@ -1,10 +1,19 @@
 # NAME: 代理
 payload:
+  # > pornemby
   - DOMAIN-SUFFIX,pornemby.club
+  
   - DOMAIN-SUFFIX,emby.speedx.one
   - DOMAIN-SUFFIX,emby.9191001.xyz
+  # > misty
   - DOMAIN-KEYWORD,misty
+  
+
+  - DOMAIN-SUFFIX,plex.ccemby.live
+   # > 短链
   - DOMAIN,v1.mk
+
+  # > syc
   - DOMAIN,notion-api.splitbee.io
   - DOMAIN,themoviedb.org
   - DOMAIN,thetvdb.com
@@ -18,4 +27,3 @@ payload:
   - DOMAIN,cdn.ceres9350.com
   - DOMAIN,cdn.efhie.com
   - DOMAIN,czzy.site
-  - DOMAIN-SUFFIX,plex.ccemby.live
