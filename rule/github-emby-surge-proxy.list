@@ -1,14 +1,14 @@
 # NAME: 代理
-  # > pornemby
+# > pornemby
 DOMAIN-SUFFIX,pornemby.club
-  # > cc音乐plex
+# > cc音乐plex
 DOMAIN-SUFFIX,plex.ccemby.live
   
-  # > 短链
+# > 短链
 DOMAIN,v1.mk
-  # > misty
+# > misty
 DOMAIN-KEYWORD,misty
-  # > syc
+# > syc
 DOMAIN,notion-api.splitbee.io
 DOMAIN,themoviedb.org
 DOMAIN,thetvdb.com
