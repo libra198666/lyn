@@ -101,6 +101,8 @@ DOMAIN,mirror.ghproxy.com
 DOMAIN-SUFFIX,push2.eastmoney.com 
 # 低端影视
 DOMAIN-KEYWORD,ddys
+# 厂长资源
+DOMAIN-KEYWORD,czzy
 # 飞凡
 DOMAIN-SUFFIX,vip.ffzy-online5.com
 
