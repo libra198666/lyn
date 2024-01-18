@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,de.mjjemby.org
 # > 梁山
 DOMAIN-SUFFIX,shuipo.lol
 # > bird
-IP-CIDR,167,235.116.53/16
+IP-CIDR,167,235.116.53/8
 
 
 
