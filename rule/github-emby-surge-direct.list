@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,de.mjjemby.org
 # > 梁山
 DOMAIN-SUFFIX,shuipo.lol
+# > 梁山
+IP-CIDR,167,235.116.53/32
 
 
 
