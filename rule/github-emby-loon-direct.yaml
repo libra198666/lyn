@@ -35,7 +35,8 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,de.mjjemby.org
 # 梁山
 DOMAIN-SUFFIX,shuipo.lol
-
+# bird
+IP-CIDR6,2A01:4F8:2200:2063::2/128
 
 
 # hxd
