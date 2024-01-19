@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,poloemby.xyz,🎥 直连
 DOMAIN-SUFFIX,de.mjjemby.org,🎥 直连
 # > 梁山
 DOMAIN-SUFFIX,shuipo.lol,🎥 直连
+# > bird
+\IP-CIDR6,2A01:4F8:2200:2063::2/128,🎥 直连
 
 
 
