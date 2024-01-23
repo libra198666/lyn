@@ -23,3 +23,11 @@ payload:
   - DOMAIN,cdn.ceres9350.com
   - DOMAIN,cdn.efhie.com
   - DOMAIN,czzy.site
+  # > 要求非中ip
+  # > 卡戎
+  - DOMAIN-SUFFIX,play.charontv.com
+  # > 猫熊
+  - DOMAIN-SUFFIX,emby.kim
+  # > 菜市场
+  - DOMAIN-SUFFIX,ntrrr.top
+  - DOMAIN-SUFFIX,api.aca.best
