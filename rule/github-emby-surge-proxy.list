@@ -27,3 +27,11 @@ DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,kin6c1.com
 DOMAIN-SUFFIX,iz8qkg.com
+# > 要求非中ip
+# > 卡戎
+DOMAIN-SUFFIX,play.charontv.com
+# > 猫熊
+DOMAIN-SUFFIX,emby.kim
+# > 菜市场
+DOMAIN-SUFFIX,ntrrr.top
+DOMAIN-SUFFIX,api.aca.best
