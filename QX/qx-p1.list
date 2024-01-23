@@ -22,3 +22,12 @@ DOMAIN,cdn.venus7202.com,🎥 代理
 DOMAIN,cdn.ceres9350.com,🎥 代理
 DOMAIN,cdn.efhie.com,🎥 代理
 DOMAIN,czzy.site,🎥 代理
+
+# 要求非中ip
+# 卡戎
+DOMAIN-SUFFIX,play.charontv.com,🎥 代理2
+# 猫熊
+DOMAIN-SUFFIX,emby.kim,🎥 代理2
+# 菜市场
+DOMAIN-SUFFIX,ntrrr.top,🎥 代理2
+DOMAIN-SUFFIX,api.aca.best,🎥 代理2
