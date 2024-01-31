@@ -16,7 +16,6 @@ DOMAIN,tmdb.org
 DOMAIN,discord.com
 DOMAIN,olevod.com
 DOMAIN,olemovienews.com
-DOMAIN,haiwaikan.com
 DOMAIN,bfvvs.com
 DOMAIN,cdn.venus7202.com
 DOMAIN,cdn.ceres9350.com
@@ -27,6 +26,10 @@ DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,kin6c1.com
 DOMAIN-SUFFIX,iz8qkg.com
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,cdn.kin6c1.com
+DOMAIN-SUFFIX,cdn.iz8qkg.com
+DOMAIN-SUFFIX,cdn.v82u1l.com
 # > 要求非中ip
 # > 卡戎
 DOMAIN-SUFFIX,play.charontv.com
