@@ -1,0 +1,100 @@
+# > sync
+DOMAIN-SUFFIX,movie.douban.com
+DOMAIN-SUFFIX,mddcloud.com.cn
+DOMAIN-SUFFIX,aliyundrive.asia
+DOMAIN-SUFFIX,v.ddys.zip
+DOMAIN-SUFFIX,v.ddys.pro
+DOMAIN-SUFFIX,ddys.info
+DOMAIN-SUFFIX,ddys.wiki
+DOMAIN-SUFFIX,ddys.pro
+DOMAIN-SUFFIX,ddys.mov
+DOMAIN-SUFFIX,ddys.art
+DOMAIN-SUFFIX,zh188.net
+DOMAIN-SUFFIX,cz.cz01.site
+DOMAIN-SUFFIX,kczybf.com
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,ctyunxs.cn
+DOMAIN-SUFFIX,hls.aoxtv.com
+DOMAIN-KEYWORD,ffzy-play
+DOMAIN-KEYWORD,bfzycdn.com
+DOMAIN-KEYWORD,lzcdn
+DOMAIN-KEYWORD,v.cdnlz
+DOMAIN-KEYWORD,lz-cdn
+DOMAIN-KEYWORD,default.akamaized.net
+DOMAIN-KEYWORD,vip.ffzy-online
+DOMAIN-KEYWORD,ffzyread
+DOMAIN-SUFFIX,kuaikan-api.com
+DOMAIN-SUFFIX,v1.ax
+IP-CIDR,216.180.0.0/16
+IP-CIDR,103.160.204.120/32
+IP-CIDR,138.199.9.104/32
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-KEYWORD,tt.cuc.myqcloud.com.cn
+# > git
+DOMAIN,fastly.jsdelivr.net
+DOMAIN,mirror.ghproxy.com
+# > 股吧
+DOMAIN-SUFFIX,push2.eastmoney.com 
+# > 厂长低端
+DOMAIN-KEYWORD,ddys
+DOMAIN-SUFFIX,czzy66.com
+DOMAIN-SUFFIX,czzy22.com
+DOMAIN-SUFFIX,czzy33.com
+DOMAIN-SUFFIX,czzy88.com
+DOMAIN-SUFFIX,czzy55.com
+DOMAIN-SUFFIX,czzy.site
+DOMAIN-SUFFIX,cz01.vip
+DOMAIN-SUFFIX,CZZ9.COM
+DOMAIN-suffix, cz01.site, direct
+DOMAIN-suffix, larksuitecdn.com
+DOMAIN-suffix, fotile.com
+DOMAIN-suffix, pstatp.com
+DOMAIN-suffix, ugdtimg.com
+DOMAIN-suffix, ctyunxs.cn
+DOMAIN, wxsnsencsvp.wxs.qq.com
+# > 飞凡
+DOMAIN-SUFFIX,vip.ffzy-online5.com
+# > 玩偶哥哥
+DOMAIN-SUFFIX,wogg.link
+DOMAIN-SUFFIX,wogg.xyz
+# > 小纸条
+DOMAIN-SUFFIX,gitcafe.net
+# > 索尼资源
+DOMAIN-SUFFIX,suoniapi.com
+# > 非凡资源
+DOMAIN-SUFFIX,ffzyapi.com
+# > 红牛资源
+DOMAIN-SUFFIX,hongniuzy2.com
+# > 量子资源
+DOMAIN-SUFFIX,lziapi.com
+# > 快车资源（直连）
+DOMAIN-SUFFIX,kczyapi.com
+# > 三九影視（直连）
+DOMAIN-SUFFIX,39kan.com
+# > 闪电资源（直连）
+DOMAIN-SUFFIX,sdzyapi.com
+# > 樱花资源（直连）
+DOMAIN-SUFFIX,apiyhzy.com
+# > 卧龙资源（直连）
+DOMAIN-SUFFIX,wolongzyw.com
+# > 飘花影院（直连）
+DOMAIN-SUFFIX,ahjiuman.com
+# > 虎牙资源（直连）
+DOMAIN-SUFFIX,huyaapi.com
+# > 百度资源（直连）
+DOMAIN-SUFFIX,apibdzy.com
+# > 飘零影院（直连）
+DOMAIN-SUFFIX,p2100.net
+# > 无尽资源（直连）
+DOMAIN-SUFFIX,wujinapi.com
+# > 速博资源（直连）
+DOMAIN-SUFFIX,subocaiji.com
+# > 乐视资源（直连）
+DOMAIN-SUFFIX,leshizyapi.com
+# > 探索页（直连）
+DOMAIN-SUFFIX,infuseku.xyz
+# > finallshell
+DOMAIN-SUFFIX,hostbuf.com
