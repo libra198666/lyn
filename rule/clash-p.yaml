@@ -31,3 +31,5 @@ payload:
   # > 菜市场
   - DOMAIN-SUFFIX,ntrrr.top
   - DOMAIN-SUFFIX,api.aca.best
+  # > Misty
+  - DOMAIN-SUFFIX,misty.cx
