@@ -192,6 +192,10 @@ payload:
   - DOMAIN-SUFFIX,emby.mius.uk
   # > ace
   - DOMAIN-SUFFIX,play.acemby.org
+  # > singularity
+  - DOMAIN-SUFFIX,singularity.bagpipe.moe
+  # > reddust
+  - DOMAIN-SUFFIX,film.reddust.link
 
 
 
