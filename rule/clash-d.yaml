@@ -163,6 +163,8 @@ payload:
   - DOMAIN-SUFFIX,infuseku.xyz
   # > finallshell
   - DOMAIN-SUFFIX,hostbuf.com
+  # > terminus
+  - DOMAIN-SUFFIX,termius.com
 
 
 
