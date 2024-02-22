@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,shuipo.lol
   # > bird
   - IP-CIDR6,2A01:4F8:2200:2063::2/128
+  - DOMAIN-SUFFIX,lyrebirdemby.com
 
 
   # > hxd
