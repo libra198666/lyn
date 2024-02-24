@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,jmsooo.com
 # > 桃子
 DOMAIN-SUFFIX,peachmv.me
 DOMAIN-SUFFIX,embymv.tk
+IP-CIDR,193.123.232.141/24,no-resolve
 # > plex
 DOMAIN-SUFFIX,plexvideos.com
 # > misakaf
