@@ -139,7 +139,10 @@ DOMAIN-SUFFIX,emby.mius.uk,🎥 直连
 DOMAIN-SUFFIX,play.acemby.org,🎥 直连
 # > singularity
 DOMAIN-SUFFIX,singularity.bagpipe.moe,🎥 直连
-
+# > 6v电影
+DOMAIN-SUFFIX,6v520.com,🎥 直连
+# > 包子
+DOMAIN-SUFFIX,cn.baozimh.com,🎥 直连
 
 
 
