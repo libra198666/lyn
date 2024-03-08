@@ -199,7 +199,8 @@ payload:
   - DOMAIN-SUFFIX,play.acemby.org
   # > singularity
   - DOMAIN-SUFFIX,singularity.bagpipe.moe
-
+  # > 包子
+  - DOMAIN-SUFFIX,cn.baozimh.com
 
 
 
