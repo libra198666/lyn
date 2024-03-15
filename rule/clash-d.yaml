@@ -95,8 +95,6 @@ payload:
   - DOMAIN,vip.lzcdn2.com
   - DOMAIN,mixpanel.com
   - DOMAIN,appsflyer.com
-  - DOMAIN,apple.com
-  - DOMAIN,tv.apple.com
   - DOMAIN,ctyunxs.cn
   - DOMAIN,hls.aoxtv.com
   - DOMAIN-KEYWORD,lz-cdn
