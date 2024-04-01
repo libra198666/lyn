@@ -97,7 +97,7 @@ DOMAIN-SUFFIX,one.mulgore.net
 DOMAIN-SUFFIX,emby.ednovas.org
 
 # > 星猫
-DOMAIN-SUFFIX,starcat.eu.org
+DOMAIN-SUFFIX,catlinks.co.uk
 # > 蓝海
 DOMAIN-SUFFIX,public.emby.ws
 # > cherry
@@ -105,11 +105,17 @@ DOMAIN-SUFFIX,cherrytv.one
 # > 水母
 DOMAIN-SUFFIX,amazing910.top
 # > 野兽
-DOMAIN-SUFFIX,emby.mius.uk
+DOMAIN-SUFFIX,mius.uk
 # > ace
 DOMAIN-SUFFIX,play.acemby.org
 # > singularity
 DOMAIN-SUFFIX,singularity.bagpipe.moe
+# > byg
+DOMAIN-SUFFIX,byg.955557.xyz
+
+
+
+
 # > 6v电影
 DOMAIN-SUFFIX,6v520.com
 # > 包子
@@ -121,3 +127,4 @@ DOMAIN-SUFFIX,wangchuanxin.top
 DOMAIN-SUFFIX,rttks.com
 # > 新视觉
 DOMAIN-SUFFIX,hdmyy.com
+
