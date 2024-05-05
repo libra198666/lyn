@@ -68,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,vx.infinityfly.top
   # > NM
   - DOMAIN-SUFFIX,film.nmg.llc
+  - DOMAIN-SUFFIX,film.hovervan.org
   # > PAUL
   - DOMAIN-SUFFIX,imetyou.top
   # > singularity
