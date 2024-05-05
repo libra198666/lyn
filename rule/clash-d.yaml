@@ -62,7 +62,7 @@ payload:
   - DOMAIN-SUFFIX,us.zerodisk.site 
   # > NYA
   - DOMAIN-SUFFIX,emby.bangumi.ca
-    # > dv
+  # > dv
   - DOMAIN-SUFFIX,lzlz.cc
   # > infinityfly
   - DOMAIN-SUFFIX,vx.infinityfly.top
