@@ -4,6 +4,7 @@ payload:
   
   # > gugu
   - DOMAIN-SUFFIX,gugumedia.link
+  - DOMAIN-SUFFIX,gugu.media
   # > 不给看
   - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,emby.gtma.top
@@ -42,6 +43,10 @@ payload:
   # > bird
   - IP-CIDR6,2A01:4F8:2200:2063::2/128
   - DOMAIN-SUFFIX,lyrebirdemby.com
+  # > apop
+  - DOMAIN-SUFFIX,apopcloud.com
+  # > 彩虹
+  - DOMAIN-SUFFIX,7777777.buzz:8096
 
 
   # > hxd
