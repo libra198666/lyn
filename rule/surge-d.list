@@ -1,5 +1,6 @@
 # > gugu
 DOMAIN-SUFFIX,gugumedia.link
+DOMAIN-SUFFIX,gugu.media
 # > 不给看
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,emby.gtma.top
@@ -41,8 +42,10 @@ DOMAIN-SUFFIX,shuipo.lol
 IP-CIDR6,2A01:4F8:2200:2063::2/128
 IP-CIDR,167.235.116.53/24,no-resolve
 DOMAIN-SUFFIX,lyrebirdemby.com
-
-
+# > apop
+DOMAIN-SUFFIX,apopcloud.com
+# > 彩虹
+DOMAIN-SUFFIX,7777777.buzz:8096
 
 
 # > hxd
@@ -72,7 +75,6 @@ DOMAIN-SUFFIX,singularity.deja-vu.beauty
 DOMAIN-SUFFIX,embyplus.org
 # > pili
 DOMAIN-KEYWORD,pilipili
-
 
 
 # > 叔服
