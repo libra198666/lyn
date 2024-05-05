@@ -46,7 +46,7 @@ payload:
   # > apop
   - DOMAIN-SUFFIX,apopcloud.com
   # > 彩虹
-  - DOMAIN-SUFFIX,7777777.buzz:8096
+  - DOMAIN-SUFFIX,7777777.buzz
 
 
   # > hxd
