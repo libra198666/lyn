@@ -2,6 +2,7 @@
 # NAME: 直连
 # > gugu
 DOMAIN-SUFFIX,gugumedia.link,🎥 直连
+DOMAIN-SUFFIX,gugu.media,🎥 直连
 # > 不给看
 DOMAIN-SUFFIX,emby.pro,🎥 直连
 DOMAIN-SUFFIX,emby.gtma.top,🎥 直连
@@ -41,7 +42,10 @@ DOMAIN-SUFFIX,shuipo.lol,🎥 直连
 # > bird
 IP-CIDR6,2A01:4F8:2200:2063::2/128,🎥 直连
 DOMAIN-SUFFIX,lyrebirdemby.com,🎥 直连
-
+# > apop
+DOMAIN-SUFFIX,apopcloud.com,🎥 直连
+# > 彩虹
+DOMAIN-SUFFIX,7777777.buzz,🎥 直连
 
 # > hxd
 DOMAIN-SUFFIX,bili.rip,🎥 直连
