@@ -84,7 +84,8 @@ payload:
   # > pornemby vip
   - DOMAIN-SUFFIX,vip.pornemby.xyz
   - DOMAIN-SUFFIX,s.ii00.cc
-
+  # > heisi
+  - DOMAIN-SUFFIX,i109.com
 
 
   # > sync
