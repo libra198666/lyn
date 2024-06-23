@@ -48,6 +48,9 @@ DOMAIN-SUFFIX,apopcloud.com
 DOMAIN-SUFFIX,7777777.buzz
 # > 大v
 DOMAIN-SUFFIX,viclub.top
+# > happy
+IP-CIDR,132.226.229.139/24,no-resolve
+
 
 # > hxd
 DOMAIN-SUFFIX,bili.rip
