@@ -2,6 +2,8 @@
 payload:
   # > pornemby
   - DOMAIN-SUFFIX,pornemby.club
+  # > 未日音乐
+  - DOMAIN-SUFFIX,mefun.org
   # > cc音乐plex
   - DOMAIN-SUFFIX,plex.ccemby.live
   
@@ -31,11 +33,10 @@ payload:
   # > 菜市场
   - DOMAIN-SUFFIX,ntrrr.top
   - DOMAIN-SUFFIX,api.aca.best
-  # > Misty
-  - DOMAIN-SUFFIX,misty.cx
   # > reddust
   - DOMAIN-SUFFIX,reddust.link
-  # > 彩虹
-  - DOMAIN-SUFFIX,581658.best
+  # > Misty
+  - DOMAIN-SUFFIX,misty.cx
   # > heisi
-  - DOMAIN-SUFFIX,nekobox.best
+  - DOMAIN-SUFFIX,h1.i109.com
+  - DOMAIN-SUFFIX,h2.i109.com
