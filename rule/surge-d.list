@@ -143,3 +143,14 @@ DOMAIN-SUFFIX,rttks.com
 # > 新视觉
 DOMAIN-SUFFIX,hdmyy.com
 
+# > git
+DOMAIN,fastly.jsdelivr.net
+DOMAIN,mirror.ghproxy.com
+# > 股吧
+DOMAIN-SUFFIX,push2.eastmoney.com 
+# > 探索页（直连）
+DOMAIN-SUFFIX,infuseku.xyz
+# > finallshell
+DOMAIN-SUFFIX,hostbuf.com
+# > ter
+DOMAIN-SUFFIX,termius.com
