@@ -99,94 +99,6 @@ payload:
   # > akuai
   - DOMAIN-SUFFIX,5412838.xyz
 
-  # > sync
-  - DOMAIN,movie.douban.com
-  - DOMAIN,mddcloud.com.cn
-  - DOMAIN,aliyundrive.asia
-  - DOMAIN,v.ddys.zip
-  - DOMAIN,v.ddys.pro
-  - DOMAIN,ddys.art
-  - DOMAIN,zh188.net
-  - DOMAIN,cz.cz01.site
-  - DOMAIN,www.m3u8.tv.jiexi.8old.cn
-  - DOMAIN,kczybf.com
-  - DOMAIN,vip.lzcdn2.com
-  - DOMAIN,mixpanel.com
-  - DOMAIN,appsflyer.com
-  - DOMAIN,ctyunxs.cn
-  - DOMAIN,hls.aoxtv.com
-  - DOMAIN-KEYWORD,lz-cdn
-  - IP-CIDR,150.230.233.218/8
-  # > git
-  - DOMAIN,fastly.jsdelivr.net
-  - DOMAIN,mirror.ghproxy.com
-  # > 股吧
-  - DOMAIN-SUFFIX,push2.eastmoney.com 
-  # > 低端影视
-  - DOMAIN-KEYWORD,ddys
-  # > 厂长资源
-  - DOMAIN-SUFFIX,czzy66.com
-  - DOMAIN-SUFFIX,czzy22.com
-  - DOMAIN-SUFFIX,czzy33.com
-  - DOMAIN-SUFFIX,czzy88.com
-  - DOMAIN-SUFFIX,czzy55.com
-  - DOMAIN-SUFFIX,czzy.site
-  - DOMAIN-SUFFIX,cz01.vip
-  - DOMAIN-SUFFIX,CZZ9.COM
-  - DOMAIN-SUFFIX,cz233.com
-  # > 飞凡
-  - DOMAIN-SUFFIX,vip.ffzy-online5.com
-  # > 玩偶哥哥
-  - DOMAIN-SUFFIX,wogg.link
-  - DOMAIN-SUFFIX,wogg.xyz
-  - DOMAIN-SUFFIX,tvfan.xxooo.cf
-  # > 小纸条
-  - DOMAIN-SUFFIX,gitcafe.net
-  # > 在线之家
-  - DOMAIN-SUFFIX,zxzja.com
-  - DOMAIN-SUFFIX,zxzjhd.com
-  - DOMAIN-SUFFIX,zxzj.pro
-  # > 索尼资源
-  - DOMAIN-SUFFIX,suoniapi.com
-  # > 非凡资源
-  - DOMAIN-SUFFIX,ffzyapi.com
-  # > 红牛资源
-  - DOMAIN-SUFFIX,hongniuzy2.com
-  # > 量子资源
-  - DOMAIN-SUFFIX,lziapi.com
-  # > 快车资源（直连）
-  - DOMAIN-SUFFIX,kczyapi.com
-  # > 三九影視（直连）
-  - DOMAIN-SUFFIX,39kan.com
-  # > 闪电资源（直连）
-  - DOMAIN-SUFFIX,sdzyapi.com
-  # > 樱花资源（直连）
-  - DOMAIN-SUFFIX,apiyhzy.com
-  # > 卧龙资源（直连）
-  - DOMAIN-SUFFIX,wolongzyw.com
-  # > 飘花影院（直连）
-  - DOMAIN-SUFFIX,ahjiuman.com
-  # > 虎牙资源（直连）
-  - DOMAIN-SUFFIX,huyaapi.com
-  # > 百度资源（直连）
-  - DOMAIN-SUFFIX,apibdzy.com
-  # > 飘零影院（直连）
-  - DOMAIN-SUFFIX,p2100.net
-  # > 无尽资源（直连）
-  - DOMAIN-SUFFIX,wujinapi.com
-  # > 速博资源（直连）
-  - DOMAIN-SUFFIX,subocaiji.com
-  # > 乐视资源（直连）
-  - DOMAIN-SUFFIX,leshizyapi.com
-  # > 探索页（直连）
-  - DOMAIN-SUFFIX,infuseku.xyz
-  # > finallshell
-  - DOMAIN-SUFFIX,hostbuf.com
-  # > terminus
-  - DOMAIN-SUFFIX,termius.com
-
-
-
 
   # > 弃
   - DOMAIN-SUFFIX,emby.xiaoyi.one
@@ -235,7 +147,14 @@ payload:
   - DOMAIN-SUFFIX,hdmyy.com
  
 
-
+  # > 股吧
+  - DOMAIN-SUFFIX,push2.eastmoney.com 
+  # > 探索页（直连）
+  - DOMAIN-SUFFIX,infuseku.xyz
+  # > finallshell
+  - DOMAIN-SUFFIX,hostbuf.com
+  # > terminus
+  - DOMAIN-SUFFIX,termius.com
 
 
 
