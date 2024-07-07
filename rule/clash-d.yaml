@@ -26,6 +26,8 @@ payload:
 
   # > 桃子
   - DOMAIN-SUFFIX,peachmv.me
+  - DOMAIN-SUFFIX,embymv.tk
+  - IP-CIDR,193.123.232.141/24,no-resolve
   # > plex
   - DOMAIN-SUFFIX,plexvideos.com
   # > misakaf
@@ -42,12 +44,19 @@ payload:
   - DOMAIN-SUFFIX,shuipo.lol
   # > bird
   - IP-CIDR6,2A01:4F8:2200:2063::2/128
+  - IP-CIDR,167.235.116.53/24,no-resolve
   - DOMAIN-SUFFIX,lyrebirdemby.com
   # > apop
   - DOMAIN-SUFFIX,apopcloud.com
   # > 彩虹
   - DOMAIN-SUFFIX,7777777.buzz
-
+  - DOMAIN-SUFFIX,581658.best
+  # > 大v
+  - DOMAIN-SUFFIX,viclub.top
+  # > happy
+  - IP-CIDR,132.226.229.139/24,no-resolve
+  - DOMAIN-SUFFIX,emby.127255.best
+  
 
   # > hxd
   - DOMAIN-SUFFIX,bili.rip
@@ -75,7 +84,8 @@ payload:
   - DOMAIN-SUFFIX,singularity.deja-vu.beauty
   # > 纸片人
   - DOMAIN-SUFFIX,embyplus.org
-
+  # > pili
+  - DOMAIN-KEYWORD,pilipili
 
 
   # > 叔服
@@ -86,7 +96,8 @@ payload:
   - DOMAIN-SUFFIX,s.ii00.cc
   # > heisi
   - DOMAIN-SUFFIX,i109.com
-
+  # > akuai
+  - DOMAIN-SUFFIX,5412838.xyz
 
   # > sync
   - DOMAIN,movie.douban.com
