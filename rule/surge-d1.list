@@ -44,14 +44,3 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-KEYWORD,tt.cuc.myqcloud.com.cn
 DOMAIN-SUFFIX,ikzybf.com
 DOMAIN-SUFFIX,bfikuncdn.com
-# > git
-DOMAIN,fastly.jsdelivr.net
-DOMAIN,mirror.ghproxy.com
-# > 股吧
-DOMAIN-SUFFIX,push2.eastmoney.com 
-# > 探索页（直连）
-DOMAIN-SUFFIX,infuseku.xyz
-# > finallshell
-DOMAIN-SUFFIX,hostbuf.com
-# > ter
-DOMAIN-SUFFIX,termius.com
