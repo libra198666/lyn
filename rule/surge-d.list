@@ -16,8 +16,7 @@ DOMAIN-SUFFIX,carryz.net
 # > 自行车
 DOMAIN-SUFFIX,emby.ml
 DOMAIN-SUFFIX,xmsl.org
-# > jms
-DOMAIN-SUFFIX,jmsooo.com
+
 
 
 # > 桃子
@@ -85,7 +84,6 @@ DOMAIN-KEYWORD,pilipili
 
 # > 叔服
 DOMAIN-SUFFIX,jz.mcjoker.xyz
-DOMAIN-SUFFIX,emby3.mcjoker.xyz
 # > pornemby vip
 DOMAIN-SUFFIX,vip.pornemby.xyz
 DOMAIN-SUFFIX,s.ii00.cc
@@ -93,20 +91,8 @@ DOMAIN-SUFFIX,s.ii00.cc
 DOMAIN,i109.com
 # > akuai
 DOMAIN-SUFFIX,5412838.xyz
-
-
 # > 星猫
 DOMAIN-SUFFIX,catlinks.co.uk
-# > 蓝海
-DOMAIN-SUFFIX,public.emby.ws
-# > cherry
-DOMAIN-SUFFIX,cherrytv.one
-# > 水母
-DOMAIN-SUFFIX,amazing910.top
-# > ace
-DOMAIN-SUFFIX,play.acemby.org
-# > singularity
-DOMAIN-SUFFIX,singularity.bagpipe.moe
 # > byg
 DOMAIN-SUFFIX,byg.955557.xyz
 
@@ -125,7 +111,16 @@ DOMAIN-SUFFIX,emby.xmss.vip
 DOMAIN-SUFFIX,one.mulgore.net
 # > embyhub
 DOMAIN-SUFFIX,emby.ednovas.org
-
+# > 蓝海
+DOMAIN-SUFFIX,public.emby.ws
+# > cherry
+DOMAIN-SUFFIX,cherrytv.one
+# > 水母
+DOMAIN-SUFFIX,amazing910.top
+# > ace
+DOMAIN-SUFFIX,play.acemby.org
+# > singularity
+DOMAIN-SUFFIX,singularity.bagpipe.moe
 
 
 
