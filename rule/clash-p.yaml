@@ -1,30 +1,26 @@
 # NAME: 代理
 payload:
+  # > 临时
+  # > jms
+  - DOMAIN-SUFFIX,jmsooo.com
+  # > 叔服
+  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
+  # > 野兽
+  - DOMAIN-SUFFIX,mius.uk
+
+
+  # > 永久
   # > pornemby
   - DOMAIN-SUFFIX,pornemby.club
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
   # > cc音乐plex
   - DOMAIN-SUFFIX,plex.ccemby.live
-  
+  - DOMAIN-SUFFIX,plex.embycc.link  
   # > 短链
   - DOMAIN,v1.mk
   # > misty
   - DOMAIN-KEYWORD,misty
-  # > syc
-  - DOMAIN,notion-api.splitbee.io
-  - DOMAIN,themoviedb.org
-  - DOMAIN,thetvdb.com
-  - DOMAIN,tmdb.org
-  - DOMAIN,discord.com
-  - DOMAIN,olevod.com
-  - DOMAIN,olemovienews.com
-  - DOMAIN,haiwaikan.com
-  - DOMAIN,bfvvs.com
-  - DOMAIN,cdn.venus7202.com
-  - DOMAIN,cdn.ceres9350.com
-  - DOMAIN,cdn.efhie.com
-  - DOMAIN,czzy.site
   # > 要求非中ip
   # > 卡戎
   - DOMAIN-SUFFIX,play.charontv.com
@@ -42,3 +38,19 @@ payload:
   # > heisi
   - DOMAIN-SUFFIX,h1.i109.com
   - DOMAIN-SUFFIX,h2.i109.com
+
+
+  # > syc
+  - DOMAIN,notion-api.splitbee.io
+  - DOMAIN,themoviedb.org
+  - DOMAIN,thetvdb.com
+  - DOMAIN,tmdb.org
+  - DOMAIN,discord.com
+  - DOMAIN,olevod.com
+  - DOMAIN,olemovienews.com
+  - DOMAIN,haiwaikan.com
+  - DOMAIN,bfvvs.com
+  - DOMAIN,cdn.venus7202.com
+  - DOMAIN,cdn.ceres9350.com
+  - DOMAIN,cdn.efhie.com
+  - DOMAIN,czzy.site
