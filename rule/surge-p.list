@@ -1,4 +1,14 @@
 # > 代理
+
+# > 临时
+# > jms
+DOMAIN-SUFFIX,jmsooo.com
+# > 叔服
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
+# > 野兽
+DOMAIN-SUFFIX,mius.uk
+
+# > 永久
 # > pornemby
 DOMAIN-SUFFIX,pornemby.club
 # > 未日音乐
@@ -13,8 +23,6 @@ DOMAIN-KEYWORD,misty
 # > 要求非中ip
 # > 卡戎
 DOMAIN-SUFFIX,play.charontv.com
-# > 野兽
-DOMAIN-SUFFIX,mius.uk
 # > 猫熊
 DOMAIN-SUFFIX,emby.kim
 # > 菜市场
