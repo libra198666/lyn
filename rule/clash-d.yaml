@@ -90,7 +90,6 @@ payload:
 
   # > 叔服
   - DOMAIN-SUFFIX,jz.mcjoker.xyz
-  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
   # > pornemby vip
   - DOMAIN-SUFFIX,vip.pornemby.xyz
   - DOMAIN-SUFFIX,s.ii00.cc
@@ -98,6 +97,11 @@ payload:
   - DOMAIN-SUFFIX,i109.com
   # > akuai
   - DOMAIN-SUFFIX,5412838.xyz
+  # > 星猫
+  - DOMAIN-SUFFIX,catlinks.co.uk
+  # > byg
+  - DOMAIN-SUFFIX,byg.955557.xyz
+
 
 
   # > 弃
@@ -113,9 +117,6 @@ payload:
   - DOMAIN-SUFFIX,one.mulgore.net
   # > embyhub
   - DOMAIN-SUFFIX,emby.ednovas.org
-
-  # > 星猫
-  - DOMAIN-SUFFIX,catlinks.co.uk
   # > 蓝海
   - DOMAIN-SUFFIX,public.emby.ws
   # > cherry
@@ -126,8 +127,8 @@ payload:
   - DOMAIN-SUFFIX,play.acemby.org
   # > singularity
   - DOMAIN-SUFFIX,singularity.bagpipe.moe
-  # > byg
-  - DOMAIN-SUFFIX,byg.955557.xyz
+
+
 
 
 
@@ -143,8 +144,10 @@ payload:
   - DOMAIN-SUFFIX,rttks.com
   # > 新视觉
   - DOMAIN-SUFFIX,hdmyy.com
- 
 
+  # > git
+  - DOMAIN,fastly.jsdelivr.net
+  - DOMAIN,mirror.ghproxy.com
   # > 股吧
   - DOMAIN-SUFFIX,push2.eastmoney.com 
   # > 探索页（直连）
