@@ -1,6 +1,8 @@
 # NAME: 代理
 payload:
   # > 临时
+  # > cc
+  - DOMAIN,cc.coemn.com  
   # > jms
   - DOMAIN-SUFFIX,jmsooo.com
   # > 叔服
