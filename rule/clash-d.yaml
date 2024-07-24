@@ -11,8 +11,7 @@ payload:
   # > aca
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
-  # > cc
-  - DOMAIN,cc.coemn.com
+  # > cc  
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
   - DOMAIN,cc.ccemby.tk
