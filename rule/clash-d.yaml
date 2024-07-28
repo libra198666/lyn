@@ -35,8 +35,7 @@ payload:
   - DOMAIN-SUFFIX,the98.ltd
   # > 魔法
   - DOMAIN-SUFFIX,emby.freetz.top
-  # > polo
-  - DOMAIN-SUFFIX,poloemby.xyz
+
   # > mjj
   - DOMAIN-SUFFIX,de.mjjemby.org
   # > 梁山
