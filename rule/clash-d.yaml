@@ -85,8 +85,6 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org
   # > pili
   - DOMAIN-KEYWORD,pilipili
-  # > tanhua
-  - DOMAIN-SUFFIX,tanhuatv.site
 
   # > 叔服
   - DOMAIN-SUFFIX,jz.mcjoker.xyz
