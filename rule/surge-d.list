@@ -40,6 +40,7 @@ IP-CIDR,167.235.116.53/24,no-resolve
 DOMAIN-SUFFIX,lyrebirdemby.com
 # > apop
 DOMAIN-SUFFIX,apopcloud.com
+DOMAIN-SUFFIX,sg.886318.xyz
 # > 彩虹
 DOMAIN-SUFFIX,7777777.buzz
 DOMAIN-SUFFIX,581658.best
