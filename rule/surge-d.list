@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,viclub.top
 IP-CIDR,132.226.229.139/24,no-resolve
 DOMAIN-SUFFIX,emby.127255.best
 
+
+# > 野兽
+DOMAIN-SUFFIX,mius.uk
 # > hxd
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,embyru.222921.xyz
