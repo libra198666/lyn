@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,lyrebirdemby.com
   # > apop
   - DOMAIN-SUFFIX,apopcloud.com
+  - DOMAIN-SUFFIX,apopcloud.live
   - DOMAIN-SUFFIX,sg.886318.xyz
   # > 彩虹
   - DOMAIN-SUFFIX,7777777.buzz
@@ -102,7 +103,16 @@ payload:
   - DOMAIN-SUFFIX,byg.955557.xyz
   # > 恋游记
   - DOMAIN-SUFFIX,abcf.io
-
+  # > agan
+  - DOMAIN-SUFFIX,aganemby.top
+  # > hka
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
+  # > 见手青
+  - DOMAIN-SUFFIX,mooguu.top
+  # > 西瓜
+  - DOMAIN-SUFFIX,emby1024.name
+  # > awa
+  - DOMAIN-SUFFIX,811861.xyz
 
   # > 弃
   - DOMAIN-SUFFIX,emby.xiaoyi.one
