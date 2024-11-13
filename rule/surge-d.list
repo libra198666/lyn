@@ -27,7 +27,9 @@ DOMAIN-SUFFIX,emby.my
 # > 桃子
 DOMAIN-SUFFIX,peachmv.me
 DOMAIN-SUFFIX,embymv.tk
+DOMAIN-SUFFIX,embymv.link
 IP-CIDR,193.123.232.141/24,no-resolve
+IP-CIDR,208.87.242.13/24,no-resolve
 # > plex
 DOMAIN-SUFFIX,plexvideos.com
 # > misakaf
