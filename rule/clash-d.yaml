@@ -1,77 +1,119 @@
 
 # NAME: 直连
 payload:
+  # > 自购域名
+  - DOMAIN-SUFFIX,sy123.asia
   
-  # > gugu
-  - DOMAIN-SUFFIX,gugumedia.link
-  - DOMAIN-SUFFIX,gugu.media
+  # > A
+  
   # > 不给看
   - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,bgka.me
   # > aca
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
+  # > hxd
+  - DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,embyru.222921.xyz
+  - DOMAIN-SUFFIX,hxd.as174.com
+  # > 野兽
+  - DOMAIN-SUFFIX,mius.uk
+  # > bird
+  - IP-CIDR6,2A01:4F8:2200:2063::2/128
+  - IP-CIDR,167.235.116.53/24,no-resolve
+  - DOMAIN-SUFFIX,lyrebirdemby.com
+  # > 大v
+  - DOMAIN-SUFFIX,viclub.top
   # > cc  
   - DOMAIN-KEYWORD,carryz
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
   - DOMAIN,cc.ccemby.tk
   - DOMAIN,carryz.net
-  # > 自行车
-  - DOMAIN-SUFFIX,emby.ml
-  - DOMAIN-SUFFIX,xmsl.org
-
-
   # > 桃子
   - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,embymv.tk
   - IP-CIDR,193.123.232.141/24,no-resolve
-  # > plex
-  - DOMAIN-SUFFIX,plexvideos.com
+  - IP-CIDR,208.87.242.13/24,no-resolve
+  - IP-CIDR,108.181.0.21/24,no-resolve
+  # > 星猫
+  - DOMAIN-SUFFIX,catlinks.co.uk  
+  # > mjj
+  - DOMAIN-SUFFIX,de.mjjemby.org
+  # > polo
+  - DOMAIN-SUFFIX,poloemby.xyz
+  # > happy
+  - IP-CIDR,132.226.229.139/24,no-resolve
+  - DOMAIN-SUFFIX,emby.127255.best
+  
+
+  
+  # > B
+  # > awa
+  - DOMAIN-SUFFIX,811861.xyz
+  - DOMAIN-SUFFIX,emby.awatv.de
+  # > 月饼
+  - DOMAIN-SUFFIX,emby.my 
+  # > 西瓜
+  - DOMAIN-SUFFIX,emby1024.name
+  # > 见手青
+  - DOMAIN-SUFFIX,mooguu.top
+  - DOMAIN-SUFFIX,mooguu.xyz
+  # > temby
+  - DOMAIN-SUFFIX,285286.xyz
+  # > hka
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
+  # > alphatv海外
+  - DOMAIN-SUFFIX,alphatvapp.top
+  # > 非越
+  - DOMAIN-SUFFIX,sfcj.org
+
+  # > C 
+  # > akuai
+  - DOMAIN-SUFFIX,5412838.xyz
+  # > PAUL
+  - DOMAIN-SUFFIX,imetyou.top
+  # > 自行车
+  - DOMAIN-SUFFIX,emby.ml
+  - DOMAIN-SUFFIX,xmsl.org
+  # > 尘烬
+  - DOMAIN-SUFFIX,emby.eu.org
+  # > NYA
+  - DOMAIN-SUFFIX,emby.bangumi.ca
+  # > 树状图
+  - DOMAIN-SUFFIX,789.123456.al  
+
+  # > P
+  # > aca porn
+  - DOMAIN-SUFFIX,pornemby.com
+  # > 叔服
+  - DOMAIN-SUFFIX,jz.mcjoker.xyz
+  # > 彩虹
+  - DOMAIN-SUFFIX,7777777.buzz
+  - DOMAIN-SUFFIX,581658.best
+
+
+  
+  # > 弃
+  # > apop
+  - DOMAIN-SUFFIX,apopcloud.com
+  - DOMAIN-SUFFIX,apopcloud.live
+  - DOMAIN-SUFFIX,sg.886318.xyz
+  # > gugu
+  - DOMAIN-SUFFIX,gugumedia.site
+  - DOMAIN-SUFFIX,gugu.media
   # > misakaf
   - DOMAIN-SUFFIX,misakaf.org
   # > 98
   - DOMAIN-SUFFIX,the98.ltd
   # > 魔法
   - DOMAIN-SUFFIX,emby.freetz.top
-
-  # > mjj
-  - DOMAIN-SUFFIX,de.mjjemby.org
   # > 梁山
   - DOMAIN-SUFFIX,shuipo.lol
-  # > bird
-  - IP-CIDR6,2A01:4F8:2200:2063::2/128
-  - IP-CIDR,167.235.116.53/24,no-resolve
-  - DOMAIN-SUFFIX,lyrebirdemby.com
-  # > apop
-  - DOMAIN-SUFFIX,apopcloud.com
-  - DOMAIN-SUFFIX,apopcloud.live
-  - DOMAIN-SUFFIX,sg.886318.xyz
-  # > 彩虹
-  - DOMAIN-SUFFIX,7777777.buzz
-  - DOMAIN-SUFFIX,581658.best
-  # > 大v
-  - DOMAIN-SUFFIX,viclub.top
-  # > happy
-  - IP-CIDR,132.226.229.139/24,no-resolve
-  - DOMAIN-SUFFIX,emby.127255.best
-  
-  # > 野兽
-  - DOMAIN-SUFFIX,mius.uk
-  # > hxd
-  - DOMAIN-SUFFIX,bili.rip
-  - DOMAIN-SUFFIX,embyru.222921.xyz
-  - DOMAIN-SUFFIX,hxd.as174.com
   # > 私人影院
   - DOMAIN-SUFFIX,agon.cf
-  # > 尘烬
-  - DOMAIN-SUFFIX,emby.eu.org
-  # > 树状图
-  - DOMAIN-SUFFIX,789.123456.al  
   # > 田小瑞
   - DOMAIN-SUFFIX,us.zerodisk.site 
-  # > NYA
-  - DOMAIN-SUFFIX,emby.bangumi.ca
   # > dv
   - DOMAIN-SUFFIX,lzlz.cc
   # > infinityfly
@@ -79,42 +121,20 @@ payload:
   # > NM
   - DOMAIN-SUFFIX,film.nmg.llc
   - DOMAIN-SUFFIX,film.hovervan.org
-  # > PAUL
-  - DOMAIN-SUFFIX,imetyou.top
   # > singularity
   - DOMAIN-SUFFIX,singularity.deja-vu.beauty
-  # > 纸片人
-  - DOMAIN-SUFFIX,embyplus.org
-  # > pili
-  - DOMAIN-KEYWORD,pilipili
-
-  # > 叔服
-  - DOMAIN-SUFFIX,jz.mcjoker.xyz
   # > pornemby vip
   - DOMAIN-SUFFIX,vip.pornemby.xyz
   - DOMAIN-SUFFIX,s.ii00.cc
   # > heisi
-  - DOMAIN-SUFFIX,i109.com
-  # > akuai
-  - DOMAIN-SUFFIX,5412838.xyz
-  # > 星猫
-  - DOMAIN-SUFFIX,catlinks.co.uk
+  - DOMAIN,i109.com
   # > byg
   - DOMAIN-SUFFIX,byg.955557.xyz
   # > 恋游记
   - DOMAIN-SUFFIX,abcf.io
   # > agan
   - DOMAIN-SUFFIX,aganemby.top
-  # > hka
-  - DOMAIN-SUFFIX,hka-emby.aliz.work
-  # > 见手青
-  - DOMAIN-SUFFIX,mooguu.top
-  # > 西瓜
-  - DOMAIN-SUFFIX,emby1024.name
-  # > awa
-  - DOMAIN-SUFFIX,811861.xyz
-
-  # > 弃
+  # > 123
   - DOMAIN-SUFFIX,emby.xiaoyi.one
   - DOMAIN-SUFFIX,tank88.top
   - DOMAIN-SUFFIX,ju.dog
@@ -142,6 +162,7 @@ payload:
 
 
 
+ 
   
   # > 6v电影
   - DOMAIN-SUFFIX,6v520.com
