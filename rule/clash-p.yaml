@@ -1,49 +1,56 @@
 # NAME: 代理
 payload:
   # > 临时
-  # > cc
+  # > cc面板
   - DOMAIN,cc.coemn.com  
-  # > jms
-  - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN-SUFFIX,jmsuper.com
-  # > 叔服
-  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
-  # > polo
-  - DOMAIN-SUFFIX,poloemby.xyz
-
-  # > 永久
-  # > pornemby
-  - DOMAIN-SUFFIX,pornemby.club
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
   # > cc音乐plex
   - DOMAIN-SUFFIX,plex.ccemby.live
-  - DOMAIN-SUFFIX,plex.embycc.link  
-  # > 短链
-  - DOMAIN,v1.mk
+  - DOMAIN-SUFFIX,plex.embycc.link 
+
+  # > 1
+  # > nanflix
+  - DOMAIN-SUFFIX,nanflix.net
+  - DOMAIN-SUFFIX,tnx.one
+  # > jms
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,jmsuper.com
+  # > levilde
+  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
+
+  # > 2
+  # > pili
+  - DOMAIN-KEYWORD,pilipili
+  # > 纸片人
+  - DOMAIN-SUFFIX,embyplus.org
   # > misty
   - DOMAIN-KEYWORD,misty
-  # > 要求非中ip
-  # > 卡戎
-  - DOMAIN-SUFFIX,play.charontv.com
-  # > 野兽
-  - DOMAIN-SUFFIX,mius.uk
-  # > 猫熊
-  - DOMAIN-SUFFIX,emby.kim
-  # > 菜市场
+  # > syn
   - DOMAIN-SUFFIX,ntrrr.top
   - DOMAIN-SUFFIX,api.aca.best
+  # > 卡戎
+  - DOMAIN-SUFFIX,play.charontv.com
+  # > 猫熊
+  - DOMAIN-SUFFIX,emby.kim
+  # > 放映厅
+  - DOMAIN-SUFFIX,9191001.xyz
+
+  # > P
+  # > 叔服
+  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
+  # > hxd porn
+  - DOMAIN-SUFFIX,emby.as174.com
+  # > 探花
+  - DOMAIN-SUFFIX,tanhuatv.site
+
+  # > 弃
   # > reddust
   - DOMAIN-SUFFIX,reddust.link
-  # > Misty
-  - DOMAIN-SUFFIX,misty.cx
   # > heisi
   - DOMAIN-SUFFIX,h1.i109.com
   - DOMAIN-SUFFIX,h2.i109.com
-  # > 天南小筑
-  - DOMAIN-SUFFIX,nanflix.net
-  # > tanhua
-  - DOMAIN-SUFFIX,tanhuatv.site
+  
 
   # > syc
   - DOMAIN,notion-api.splitbee.io
