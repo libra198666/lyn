@@ -82,6 +82,16 @@ payload:
   - DOMAIN-SUFFIX,emby.bangumi.ca
   # > 树状图
   - DOMAIN-SUFFIX,789.123456.al  
+  # > 无名小服
+  - DOMAIN-SUFFIX,pppp.us.kg
+  - DOMAIN-SUFFIX,567996.xyz
+  - IP-CIDR,46.3.99.99/24,no-resolve
+  - IP-CIDR,46.3.99.83/24,no-resolve
+  - IP-CIDR,46.3.101.30/24,no-resolve
+  - IP-CIDR,46.3.101.143/24,no-resolve
+  - IP-CIDR,154.29.154.124/24,no-resolve
+  - IP-CIDR,154.29.145.151/24,no-resolve
+  
 
   # > P
   # > 叔服
