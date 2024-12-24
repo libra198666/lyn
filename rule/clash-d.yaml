@@ -111,6 +111,13 @@ payload:
 
 
   
+  # > 临时
+  # > td
+  - DOMAIN-SUFFIX,tdck.fun
+  # > 骡马
+  - DOMAIN-SUFFIX,nomaba.com
+
+  
   # > 弃
   # > apop
   - DOMAIN-SUFFIX,apopcloud.com
