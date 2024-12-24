@@ -95,7 +95,7 @@ payload:
   - IP-CIDR,154.29.154.124/24,no-resolve
   - IP-CIDR,154.29.145.151/24,no-resolve
   # > 起点站td
-  - DOMAIN-SUFFIX，tdck.fun
+  - DOMAIN-SUFFIX,tdck.fun
   # > 骡马
   - DOMAIN-SUFFIX,us.nomaba.com
 
@@ -111,11 +111,6 @@ payload:
 
 
   
-  # > 临时
-  # > td
-  - DOMAIN-SUFFIX,tdck.fun
-  # > 骡马
-  - DOMAIN-SUFFIX,nomaba.com
 
   
   # > 弃
