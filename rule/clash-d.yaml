@@ -56,7 +56,7 @@ payload:
   # > 月饼
   - DOMAIN-SUFFIX,emby.my 
   # > 西瓜
-  - DOMAIN-SUFFIX,emby1024.name
+  - DOMAIN-SUFFIX,1024.name
   # > 见手青
   - DOMAIN-SUFFIX,mooguu.top
   - DOMAIN-SUFFIX,mooguu.xyz
