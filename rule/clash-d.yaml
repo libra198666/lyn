@@ -65,7 +65,7 @@ payload:
   # > alphatv海外
   - DOMAIN-SUFFIX,alphatvapp.top
   # > hka
-  - DOMAIN-SUFFIX,hka-emby.aliz.work
+  - DOMAIN-SUFFIX,aliz.work
   # > 非越
   - DOMAIN-SUFFIX,sfcj.org
 
