@@ -52,9 +52,9 @@ payload:
   - DOMAIN-SUFFIX,tanhuatv.site
 
   # > 木偶
-  - DDOMAIN-SUFFIX,91muou.icu
-  - DDOMAIN-SUFFIX,666291.xyz
-  - DDOMAIN-SUFFIX,muouso.fun
+  - DOMAIN-SUFFIX,91muou.icu
+  - DOMAIN-SUFFIX,666291.xyz
+  - DOMAIN-SUFFIX,muouso.fun
 
 
   
