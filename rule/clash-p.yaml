@@ -51,6 +51,14 @@ payload:
   # > 探花
   - DOMAIN-SUFFIX,tanhuatv.site
 
+  # > 木偶
+  - DDOMAIN-SUFFIX,91muou.icu
+  - DDOMAIN-SUFFIX,666291.xyz
+  - DDOMAIN-SUFFIX,muouso.fun
+
+
+  
+
   # > 弃
   # > reddust
   - DOMAIN-SUFFIX,reddust.link
