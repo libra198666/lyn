@@ -10,16 +10,22 @@ DOMAIN-SUFFIX,plex.ccemby.live
 DOMAIN-SUFFIX,plex.embycc.link  
 
 # > 1
+# > 星云
+DOMAIN-SUFFIX,nebula-media.org
+# > levilde
+DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
 # > nanflix
 DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,tnx.one
+
+
+# > youno cf
+DOMAIN,emby.younoyes.com
 # > jms
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,jmsuper.com
-# > levilde
-DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
-# > youno cf
-DOMAIN,emby.younoyes.com
+
+
 
 # > 2
 # > pili
@@ -37,32 +43,19 @@ DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,emby.kim
 # > 放映厅
 DOMAIN-SUFFIX,9191001.xyz
-# > 星云
-DOMAIN-SUFFIX,nebula-media.org
+
 
 # > P
-# > porn
-DOMAIN-SUFFIX,pornemby.com
-# > 叔服
-DOMAIN-SUFFIX,emby3.mcjoker.xyz
+# > 游骑兵
+DOMAIN-SUFFIX,heisi.org
 # > hxd porn
 DOMAIN-SUFFIX,emby.as174.com
 DOMAIN-SUFFIX,emby.as174.de
 # > 探花
 DOMAIN-SUFFIX,tanhuatv.site
 
-# > 木偶
-DOMAIN-SUFFIX,91muou.icu
-DOMAIN-SUFFIX,666291.xyz
-DOMAIN-SUFFIX,muouso.fun
 
 
-# > 弃
-# > reddust
-DOMAIN-SUFFIX,reddust.link
-# > heisi
-DOMAIN-SUFFIX,h1.i109.com
-DOMAIN-SUFFIX,h2.i109.com
 
 # > syc
 DOMAIN-SUFFIX,v1.mk
