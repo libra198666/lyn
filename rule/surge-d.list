@@ -9,6 +9,11 @@ IP-CIDR,167.235.116.53/24,no-resolve
 DOMAIN-SUFFIX,lyrebirdemby.com
 # > 比比
 DOMAIN,beebi.org
+# > 大v
+DOMAIN-SUFFIX,viclub.top
+# > 见手青
+DOMAIN-SUFFIX,vban.xyz
+
 # > 不给看
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,bgka.me
@@ -23,8 +28,7 @@ DOMAIN-SUFFIX,hxd.as174.de
 # > 野兽
 DOMAIN-SUFFIX,mius.uk
 
-# > 大v
-DOMAIN-SUFFIX,viclub.top
+
 # > cc
 DOMAIN-KEYWORD,carryz
 DOMAIN,cc.ccemby.ml
@@ -56,9 +60,7 @@ DOMAIN-SUFFIX,emby.awatv.de
 DOMAIN-SUFFIX,emby.my
 # > 西瓜
 DOMAIN-SUFFIX,1024.name
-# > 见手青
-DOMAIN-SUFFIX,mooguu.top
-DOMAIN-SUFFIX,mooguu.xyz
+
 # > temby
 DOMAIN-SUFFIX,285286.xyz
 # > alphatv海外
