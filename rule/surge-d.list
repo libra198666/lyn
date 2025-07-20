@@ -3,7 +3,12 @@ DOMAIN-SUFFIX,sy123.asia
 DOMAIN-SUFFIX,claw.cloud
 
 # > A
-
+# > 琴鸟
+IP-CIDR6,2A01:4F8:2200:2063::2/128
+IP-CIDR,167.235.116.53/24,no-resolve
+DOMAIN-SUFFIX,lyrebirdemby.com
+# > 比比
+DOMAIN,beebi.org
 # > 不给看
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,bgka.me
@@ -17,10 +22,7 @@ DOMAIN-SUFFIX,hxd.as174.com
 DOMAIN-SUFFIX,hxd.as174.de
 # > 野兽
 DOMAIN-SUFFIX,mius.uk
-# > bird
-IP-CIDR6,2A01:4F8:2200:2063::2/128
-IP-CIDR,167.235.116.53/24,no-resolve
-DOMAIN-SUFFIX,lyrebirdemby.com
+
 # > 大v
 DOMAIN-SUFFIX,viclub.top
 # > cc
