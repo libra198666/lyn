@@ -51,11 +51,6 @@ payload:
   # > 探花
   - DOMAIN-SUFFIX,tanhuatv.site
 
-  # > 木偶
-  - DOMAIN-SUFFIX,91muou.icu
-  - DOMAIN-SUFFIX,666291.xyz
-  - DOMAIN-SUFFIX,muouso.fun
-
 
   
 
