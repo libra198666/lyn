@@ -48,176 +48,102 @@ payload:
 
 
   # > A
-  # > 不给看
-  - DOMAIN-SUFFIX,emby.pro
-  - DOMAIN-SUFFIX,bgka.me
-  # > aca
-  - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN-SUFFIX,porn.aca.best
+  # > 琴鸟
+  - IP-CIDR6,2A01:4F8:2200:2063::2/128
+  - IP-CIDR,167.235.116.53/24,no-resolve
+  - DOMAIN-SUFFIX,lyrebirdemby.com
+  # > 比比
+  - DOMAIN,beebi.org
+  # > 大v
+  - DOMAIN-SUFFIX,viclub.top
+  # > 见手青
+  - DOMAIN-SUFFIX,vban.xyz
+  # > 起点站td
+  - DOMAIN-SUFFIX,28.al
+  # > 彩虹
+  - DOMAIN-SUFFIX,feiyue.lol
+  # > 非越
+  - DOMAIN-SUFFIX,sfcj.org
+  # > 桃子
+  - DOMAIN-SUFFIX,peachmv.me
+  - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,embymv.link
+  - IP-CIDR,193.123.232.141/24,no-resolve
+  - IP-CIDR,208.87.242.13/24,no-resolve
+  - IP-CIDR,108.181.0.21/24,no-resolve
+  # > cc
+  - DOMAIN,cc.ccemby.ml
+  - DOMAIN,dx1.ccemby.ga
+  - DOMAIN,cc.ccemby.tk
+  # > polo
+  - DOMAIN-SUFFIX,poloemby.xyz
   # > hxd
   - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,embyru.222921.xyz
   - DOMAIN-SUFFIX,hxd.as174.com
   - DOMAIN-SUFFIX,hxd.as174.de
-  # > 野兽
-  - DOMAIN-SUFFIX,mius.uk
-  # > bird
-  - IP-CIDR6,2A01:4F8:2200:2063::2/128
-  - IP-CIDR,167.235.116.53/24,no-resolve
-  - DOMAIN-SUFFIX,lyrebirdemby.com
-  # > 大v
-  - DOMAIN-SUFFIX,viclub.top
-  # > cc  
-  - DOMAIN-KEYWORD,carryz
-  - DOMAIN,cc.ccemby.ml
-  - DOMAIN,dx1.ccemby.ga
-  - DOMAIN,cc.ccemby.tk
-  - DOMAIN,carryz.net
-  # > 桃子
-  - DOMAIN-SUFFIX,peachmv.me
-  - DOMAIN-SUFFIX,embymv.tk
-  - IP-CIDR,193.123.232.141/24,no-resolve
-  - IP-CIDR,208.87.242.13/24,no-resolve
-  - IP-CIDR,108.181.0.21/24,no-resolve
-  # > 星猫
-  - DOMAIN-SUFFIX,catlinks.co.uk  
-  # > mjj
-  - DOMAIN-SUFFIX,de.mjjemby.org
-  # > polo
-  - DOMAIN-SUFFIX,poloemby.xyz
-  # > happy
-  - IP-CIDR,132.226.229.139/24,no-resolve
-  - DOMAIN-SUFFIX,emby.127255.best
-  
 
-  
+
   # > B
-  # > awa
-  - DOMAIN-SUFFIX,811861.xyz
-  - DOMAIN-SUFFIX,emby.awatv.de
   # > 月饼
-  - DOMAIN-SUFFIX,emby.my 
-  # > 西瓜
-  - DOMAIN-SUFFIX,1024.name
-  # > 见手青
-  - DOMAIN-SUFFIX,mooguu.top
-  - DOMAIN-SUFFIX,mooguu.xyz
-  # > temby
-  - DOMAIN-SUFFIX,285286.xyz
-  # > alphatv海外
-  - DOMAIN-SUFFIX,alphatvapp.top
+  - DOMAIN-SUFFIX,emby.my
+  # > 惊蛰
+  - DOMAIN-SUFFIX,jingzhe.pro
+  # > saturday
+  - DOMAIN,lite.saturdayvideo.top
+  # > saturday
+  - DOMAIN,lite.saturdayvideo.top
+  # > 肥牛
+  - DOMAIN,feiniu.lol
+  # > kiku
+  - DOMAIN-SUFFIX,ucloudhost.top
+  # > 入机
+  - DOMAIN-SUFFIX,rjf37.com
+  - DOMAIN-SUFFIX,xytx.org
+  # > youno
+  - DOMAIN-SUFFIX,younoyes.com
+  # > 稳健
+  - DOMAIN,emby.wenjian.de
+
+
+  # > P
+  # > 叔服
+  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
   # > hka
   - DOMAIN-SUFFIX,aliz.work
-  # > 非越
-  - DOMAIN-SUFFIX,sfcj.org
 
 
-  
-  # > C 
-  # > akuai
-  - DOMAIN-SUFFIX,5412838.xyz
+
+
+  # > C
+  # > 西瓜
+  - DOMAIN-SUFFIX,1024.name
   # > PAUL
   - DOMAIN-SUFFIX,imetyou.top
-  # > 自行车
-  - DOMAIN-SUFFIX,emby.ml
-  - DOMAIN-SUFFIX,xmsl.org
   # > 尘烬
   - DOMAIN-SUFFIX,emby.eu.org
   # > NYA
   - DOMAIN-SUFFIX,emby.bangumi.ca
-  # > 树状图
-  - DOMAIN-SUFFIX,789.123456.al  
-  # > 无名小服
-  - DOMAIN-SUFFIX,pppp.us.kg
-  - DOMAIN-SUFFIX,567996.xyz
-  - IP-CIDR,46.3.99.99/24,no-resolve
-  - IP-CIDR,46.3.99.83/24,no-resolve
-  - IP-CIDR,46.3.101.30/24,no-resolve
-  - IP-CIDR,46.3.101.143/24,no-resolve
-  - IP-CIDR,154.29.154.124/24,no-resolve
-  - IP-CIDR,154.29.145.151/24,no-resolve
-  # > 起点站td
-  - DOMAIN-SUFFIX,tdck.fun
   # > 骡马
   - DOMAIN-SUFFIX,us.nomaba.com
 
-
   
 
-  # > P
-  # > 叔服
-  - DOMAIN-SUFFIX,jz.mcjoker.xyz
-  # > 彩虹
-  - DOMAIN-SUFFIX,7777777.buzz
-  - DOMAIN-SUFFIX,581658.best
 
 
   
 
   
   # > 弃
-  # > apop
-  - DOMAIN-SUFFIX,apopcloud.com
-  - DOMAIN-SUFFIX,apopcloud.live
-  - DOMAIN-SUFFIX,sg.886318.xyz
+  # > 野兽
+  - DOMAIN-SUFFIX,mius.uk
+  # > 不给看
+  - DOMAIN-SUFFIX,emby.pro
+  - DOMAIN-SUFFIX,bgka.me
   # > gugu
   - DOMAIN-SUFFIX,gugumedia.site
   - DOMAIN-SUFFIX,gugu.media
-  # > misakaf
-  - DOMAIN-SUFFIX,misakaf.org
-  # > 98
-  - DOMAIN-SUFFIX,the98.ltd
-  # > 魔法
-  - DOMAIN-SUFFIX,emby.freetz.top
-  # > 梁山
-  - DOMAIN-SUFFIX,shuipo.lol
-  # > 私人影院
-  - DOMAIN-SUFFIX,agon.cf
-  # > 田小瑞
-  - DOMAIN-SUFFIX,us.zerodisk.site 
-  # > dv
-  - DOMAIN-SUFFIX,lzlz.cc
-  # > infinityfly
-  - DOMAIN-SUFFIX,vx.infinityfly.top
-  # > NM
-  - DOMAIN-SUFFIX,film.nmg.llc
-  - DOMAIN-SUFFIX,film.hovervan.org
-  # > singularity
-  - DOMAIN-SUFFIX,singularity.deja-vu.beauty
-  # > pornemby vip
-  - DOMAIN-SUFFIX,vip.pornemby.xyz
-  - DOMAIN-SUFFIX,s.ii00.cc
-  # > heisi
-  - DOMAIN,i109.com
-  # > byg
-  - DOMAIN-SUFFIX,byg.955557.xyz
-  # > 恋游记
-  - DOMAIN-SUFFIX,abcf.io
-  # > agan
-  - DOMAIN-SUFFIX,aganemby.top
-  # > 123
-  - DOMAIN-SUFFIX,emby.xiaoyi.one
-  - DOMAIN-SUFFIX,tank88.top
-  - DOMAIN-SUFFIX,ju.dog
-  - DOMAIN-SUFFIX,zsag1.miwuwan.com
-  - DOMAIN-SUFFIX,emby.lzlz.eu.org
-  - DOMAIN-SUFFIX,cdn.embytv.cf
-  - DOMAIN-SUFFIX,emby.wiri.tk
-  - DOMAIN-SUFFIX,emby.xmss.vip
-  # > mulgore
-  - DOMAIN-SUFFIX,one.mulgore.net
-  # > embyhub
-  - DOMAIN-SUFFIX,emby.ednovas.org
-  # > 蓝海
-  - DOMAIN-SUFFIX,public.emby.ws
-  # > cherry
-  - DOMAIN-SUFFIX,cherrytv.one
-  # > 水母
-  - DOMAIN-SUFFIX,amazing910.top
-  # > ace
-  - DOMAIN-SUFFIX,play.acemby.org
-  # > singularity
-  - DOMAIN-SUFFIX,singularity.bagpipe.moe
+
 
 
 
