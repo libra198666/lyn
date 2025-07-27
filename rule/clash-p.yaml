@@ -5,6 +5,7 @@ payload:
   # > 临时
   # > cc面板
   - DOMAIN,cc.coemn.com  
+  - DOMAIN,carryz.net
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
   # > cc音乐plex
@@ -12,14 +13,24 @@ payload:
   - DOMAIN-SUFFIX,plex.embycc.link 
 
   # > 1
+  # > 1111
+  - DOMAIN-SUFFIX,emby.ml
+  - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,xxlb.net
+  # > 星云
+  - DOMAIN-SUFFIX,nebula-media.org
+  # > levilde
+  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   # > nanflix
   - DOMAIN-SUFFIX,nanflix.net
   - DOMAIN-SUFFIX,tnx.one
+
+  # > youno cf
+  - DOMAIN,emby.younoyes.com
   # > jms
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,jmsuper.com
-  # > levilde
-  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
+
 
   # > 2
   # > pili
@@ -41,10 +52,8 @@ payload:
   - DOMAIN-SUFFIX,nebula-media.org
   
   # > P
-  # > porn
-  - DOMAIN-SUFFIX,pornemby.com
-  # > 叔服
-  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
+  # > 游骑兵
+  - DOMAIN-SUFFIX,heisi.org
   # > hxd porn
   - DOMAIN-SUFFIX,emby.as174.com
   - DOMAIN-SUFFIX,emby.as174.de
