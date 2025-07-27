@@ -62,13 +62,6 @@ payload:
 
 
   
-
-  # > 弃
-  # > reddust
-  - DOMAIN-SUFFIX,reddust.link
-  # > heisi
-  - DOMAIN-SUFFIX,h1.i109.com
-  - DOMAIN-SUFFIX,h2.i109.com
   
 
   # > syc
