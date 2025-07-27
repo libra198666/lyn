@@ -2,6 +2,45 @@
 DOMAIN-SUFFIX,sy123.asia
 DOMAIN-SUFFIX,claw.cloud
 
+# > 不夜站点
+# > 杂项
+DOMAIN-SUFFIX,mlink.cc
+DOMAIN-SUFFIX,tv.yydsys.top
+# > 玩偶
+DOMAIN-SUFFIX,wogg.xxooo.cf
+# > 木偶
+DOMAIN-SUFFIX,666.666291.xyz
+# > 快映
+DOMAIN-SUFFIX,xsayang.fun
+# > 蜡笔
+DOMAIN-SUFFIX,feimaoai.site
+DOMAIN-SUFFIX,feimao666.fun
+DOMAIN-SUFFIX,feimao888.fun
+DOMAIN-SUFFIX,www.labi88.sbs
+# > 至臻
+DOMAIN-SUFFIX,xiaomi666.fun
+DOMAIN-SUFFIX,xiaomiai.site
+# > 多多
+DOMAIN-SUFFIX,tv.214521.xyz
+# > 欧哥
+DOMAIN-SUFFIX,woog.nxog.eu.org
+# > 二小
+DOMAIN-SUFFIX,xhww.net
+DOMAIN-SUFFIX,erxiaofn.click
+DOMAIN-SUFFIX,erxiaofn.site
+DOMAIN-SUFFIX,www.xhww.net
+DOMAIN-SUFFIX,xiaoer.5568.eu.org
+# > 立播
+DOMAIN-SUFFIX,libvio.mov
+DOMAIN-SUFFIX,www.libvio.cc
+DOMAIN-SUFFIX,libvio.pro
+DOMAIN-SUFFIX,libvio.me
+DOMAIN-SUFFIX,libvio.art
+DOMAIN-SUFFIX,libvio.vip
+DOMAIN-SUFFIX,libvio.pw
+DOMAIN-SUFFIX,libvio.link
+
+
 # > A
 # > 琴鸟
 IP-CIDR6,2A01:4F8:2200:2063::2/128
