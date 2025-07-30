@@ -1,0 +1,11 @@
+# NAME: cf切换
+
+payload:
+
+  # > 星云
+  - DOMAIN-SUFFIX,nebula-media.org
+  # > jms
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,jmsuper.com
+  
+
