@@ -17,8 +17,6 @@ payload:
   - DOMAIN-SUFFIX,emby.ml
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,xxlb.net
-  # > 星云
-  - DOMAIN-SUFFIX,nebula-media.org
   # > levilde
   - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   # > nanflix
@@ -27,9 +25,7 @@ payload:
 
   # > youno cf
   - DOMAIN,emby.younoyes.com
-  # > jms
-  - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN-SUFFIX,jmsuper.com
+
 
 
   # > 2
