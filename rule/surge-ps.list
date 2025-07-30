@@ -1,7 +1,6 @@
-# NAME: cf切换
-# > nm
-DOMAIN,film.nmg.llc
-DOMAIN-SUFFIX,film.goodisp.org
-# > 魔法
-DOMAIN-SUFFIX,cf.freetz.top
-DOMAIN-SUFFIX,stream.freetz.top  
+# NAME: 特殊
+# > 星云-非中日
+DOMAIN-SUFFIX,nebula-media.org
+# > jms-非日港美
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,jmsuper.com
