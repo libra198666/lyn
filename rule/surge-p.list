@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,plex.ccemby.live
 DOMAIN-SUFFIX,plex.embycc.link  
 
 # > 1
+# > 守护
+DOMAIN-SUFFIX,lite.cn2gias.uk
 # > levilde
 DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
 # > nanflix
@@ -26,8 +28,6 @@ DOMAIN,emby.younoyes.com
 # > 2
 # > pili
 DOMAIN-KEYWORD,pilipili
-# > 纸片人
-DOMAIN-SUFFIX,embyplus.org
 # > Misty
 DOMAIN-SUFFIX,misty.cx
 # > syn
