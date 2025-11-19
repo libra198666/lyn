@@ -184,8 +184,6 @@ payload:
   # > 飞快
   - DOMAIN-SUFFIX,feikuai.tv
   - DOMAIN-SUFFIX,dytt-cine.com
-  # > 瓜子web
-  - DOMAIN-SUFFIX,wjm.eny7kg.com
   # > 厂长
   - DOMAIN-KEYWORD,czzy
 
