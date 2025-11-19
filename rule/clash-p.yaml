@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,plex.embycc.link 
 
   # > 1
+  # > 守护
+  - DOMAIN-SUFFIX,lite.cn2gias.uk
   # > levilde
   - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   # > nanflix
@@ -27,8 +29,6 @@ payload:
   # > 2
   # > pili
   - DOMAIN-KEYWORD,pilipili
-  # > 纸片人
-  - DOMAIN-SUFFIX,embyplus.org
   # > misty
   - DOMAIN-KEYWORD,misty
   # > syn
@@ -40,8 +40,6 @@ payload:
   - DOMAIN-SUFFIX,emby.kim
   # > 放映厅
   - DOMAIN-SUFFIX,9191001.xyz
-  # > 星云
-  - DOMAIN-SUFFIX,nebula-media.org
   
   # > P
   # > 游骑兵
