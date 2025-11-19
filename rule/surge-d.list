@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,libvio.pw
 DOMAIN-SUFFIX,libvio.link
 
 
+
 # > A
 # > 琴鸟
 IP-CIDR6,2A01:4F8:2200:2063::2/128
@@ -168,6 +169,12 @@ DOMAIN-SUFFIX,hostbuf.com
 # > ter
 DOMAIN-SUFFIX,termius.com
 
+# > xptv
+# > 飞快
+DOMAIN-SUFFIX,feikuai.tv
+DOMAIN-SUFFIX,dytt-cine.com
+# > 瓜子web
+DOMAIN-SUFFIX,wjm.eny7kg.com
 
 
 
@@ -198,6 +205,7 @@ DOMAIN-KEYWORD,vip.ffzy-online
 DOMAIN-KEYWORD,vip.ffzy-play
 DOMAIN-KEYWORD,ffzyread
 DOMAIN-SUFFIX,kuaikan-api.com
+DOMAIN-KEYWORD,czzy
 DOMAIN-SUFFIX,cz.cz01.site
 DOMAIN-SUFFIX,czzy88.com
 DOMAIN-SUFFIX,czzy22.com
