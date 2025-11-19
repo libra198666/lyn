@@ -8,7 +8,9 @@ DOMAIN-SUFFIX,carryz.net
 DOMAIN-SUFFIX,mefun.org
 # > cc音乐plex
 DOMAIN-SUFFIX,plex.ccemby.live
-DOMAIN-SUFFIX,plex.embycc.link  
+DOMAIN-SUFFIX,plex.embycc.link
+# > 瓜子web
+DOMAIN-SUFFIX,wjm.eny7kg.com
 
 # > 1
 # > 守护
