@@ -1,4 +1,4 @@
-# NAME: cf切换
+# NAME: 特殊
 
 payload:
 
@@ -11,4 +11,7 @@ payload:
   - DOMAIN-SUFFIX,emby.ml
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,xxlb.net
-
+  # > 纸片人
+  - DOMAIN-SUFFIX,embyplus.org
+  # > 临境
+  - DOMAIN-SUFFIX,liminalnet.com
