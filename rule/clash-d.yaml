@@ -76,6 +76,7 @@ payload:
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
   - DOMAIN,cc.ccemby.tk
+  - IP-CIDR,35.197.139.161/31,no-resolve
   # > polo
   - DOMAIN-SUFFIX,poloemby.xyz
   # > hxd
@@ -89,7 +90,8 @@ payload:
   - DOMAIN-SUFFIX,okemby.org
   # > Hohai
   - DOMAIN-SUFFIX,emby.hohai.eu.org
-
+  # > 1111
+  - IP-CIDR,209.141.61.153/31,no-resolve
 
 
   # > B
