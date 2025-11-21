@@ -73,6 +73,7 @@ IP-CIDR,108.181.0.21/24,no-resolve
 DOMAIN,cc.ccemby.ml
 DOMAIN,dx1.ccemby.ga
 DOMAIN,cc.ccemby.tk
+IP-CIDR,35.197.139.161/31,no-resolve
 # > polo
 DOMAIN-SUFFIX,poloemby.xyz
 # > hxd
@@ -86,6 +87,8 @@ DOMAIN-SUFFIX,10520.xyz
 DOMAIN-SUFFIX,okemby.org
 # > Hohai
 DOMAIN-SUFFIX,emby.hohai.eu.org
+# > 1111
+IP-CIDR,209.141.61.153/31,no-resolve
 
 
 # > B
