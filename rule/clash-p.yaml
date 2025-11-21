@@ -14,6 +14,8 @@ payload:
   # > 瓜子web
   - DOMAIN-SUFFIX,wjm.eny7kg.com
   - DOMAIN-SUFFIX,api.zaqohu.com
+
+  
   # > 1
   # > 守护
   - DOMAIN-SUFFIX,lite.cn2gias.uk
@@ -25,7 +27,10 @@ payload:
 
   # > youno cf
   - DOMAIN,emby.younoyes.com
-
+  # > 1111
+  - DOMAIN-SUFFIX,emby.ml
+  - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,xxlb.net
 
 
   # > 2
