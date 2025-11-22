@@ -109,7 +109,8 @@ payload:
   - DOMAIN-SUFFIX,rjf37.com
   - DOMAIN-SUFFIX,xytx.org
   # > youno
-  - DOMAIN-SUFFIX,younoyes.com
+  - DOMAIN-SUFFIX,us.younoyes.com
+  - DOMAIN-SUFFIX,jp.younoyes.com
   # > 稳健
   - DOMAIN,emby.wenjian.de
 
