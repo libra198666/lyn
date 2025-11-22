@@ -25,8 +25,7 @@ payload:
   - DOMAIN-SUFFIX,nanflix.net
   - DOMAIN-SUFFIX,tnx.one
 
-  # > youno cf
-  - DOMAIN,emby.younoyes.com
+
   # > 1111
   - DOMAIN-SUFFIX,emby.ml
   - DOMAIN-SUFFIX,xmsl.org
