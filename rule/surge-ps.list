@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,nebula-media.org
 # > jms-非日港美
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,jmsuper.com
+# > youno cf
+DOMAIN,emby.younoyes.com
 # > 纸片人
 DOMAIN-SUFFIX,embyplus.org
 # > 临境
