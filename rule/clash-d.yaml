@@ -189,6 +189,8 @@ payload:
   - DOMAIN-SUFFIX,dytt-cine.com
   # > 厂长
   - DOMAIN-KEYWORD,czzy
+  # > 苹果
+  - IP-CIDR,23.237.228.132/24,no-resolve
 
 
 
