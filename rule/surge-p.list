@@ -4,8 +4,6 @@
 # > cc面板
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,carryz.net
-# > 未日音乐
-DOMAIN-SUFFIX,mefun.org
 # > cc音乐plex
 DOMAIN-SUFFIX,plex.ccemby.live
 DOMAIN-SUFFIX,plex.embycc.link
