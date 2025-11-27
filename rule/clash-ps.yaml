@@ -4,8 +4,6 @@ payload:
 
   # > 星云
   - DOMAIN-SUFFIX,nebula-media.org
-  # > 未日音乐
-  - DOMAIN-SUFFIX,mefun.org
   # > jms
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,jmsuper.com
