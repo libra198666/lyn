@@ -4,6 +4,8 @@ payload:
   # > 自购域名
   - DOMAIN-SUFFIX,sy123.asia
   - DOMAIN-SUFFIX,claw.cloud
+  # > 未日音乐
+  - DOMAIN-SUFFIX,mefun.org
   # > 不夜站点
   # > 杂项
   - DOMAIN-SUFFIX,mlink.cc
