@@ -92,6 +92,10 @@ payload:
   - DOMAIN-SUFFIX,okemby.org
   # > Hohai
   - DOMAIN-SUFFIX,emby.hohai.eu.org
+  # > Emos
+  - DOMAIN-SUFFIX,emos.lol
+  # > Hello
+  - DOMAIN-SUFFIX,istyboe.top
   # > 1111
   - IP-CIDR,209.141.61.153/31,no-resolve
 
