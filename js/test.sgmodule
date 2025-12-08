@@ -1,0 +1,13 @@
+#!name=test
+#!desc=拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。
+#!author=可莉🅥[https://github.com/luestr/ProxyResource/blob/main/README.md], VirgilClyne[https://github.com/VirgilClyne]
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/120px/HTTPDNS.png
+#!tag=去广告, 依赖
+#!loon_version=3.2.4(787)
+#!homepage=https://hub.kelee.one
+#!date=2025-11-23 22:49:40
+
+[Rule]
+# > 腾讯 WeChat
+DOMAIN,dns.weixin.qq.com.cn,DIRECT,extended-matching
+DOMAIN,dns.weixin.qq.com,DIRECT,extended-matching
