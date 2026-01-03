@@ -94,6 +94,9 @@ payload:
   - DOMAIN-SUFFIX,emby.hohai.eu.org
   # > Emos
   - DOMAIN-SUFFIX,emos.lol
+  - DOMAIN-SUFFIX,sharepoint.cn
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,emosstore.sbs
   # > Hello
   - DOMAIN-SUFFIX,istyboe.top
   # > 1111
