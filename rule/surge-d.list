@@ -93,6 +93,9 @@ DOMAIN-SUFFIX,emby.hohai.eu.org
 IP-CIDR,209.141.61.153/31,no-resolve
 # > Emos
 DOMAIN-SUFFIX,emos.lol
+DOMAIN-SUFFIX,sharepoint.cn
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,emosstore.sbs
 # > Hello
 DOMAIN-SUFFIX,istyboe.top
 
