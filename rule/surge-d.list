@@ -190,6 +190,9 @@ DOMAIN-SUFFIX,dytt-cine.com
 # > 苹果
 IP-CIDR,23.237.228.132/24,no-resolve
 DOMAIN-SUFFIX,haotv.store
+# > 瓜子
+DOMAIN-SUFFIX,api.gudvxty.com
+
 
 
 
