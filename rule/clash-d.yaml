@@ -2,6 +2,7 @@
 # NAME: 直连
 payload:
   # > 自购域名
+  - DOMAIN-SUFFIX,vod.doudou.pet
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,v.sy1234.asia
   # > 未日音乐
