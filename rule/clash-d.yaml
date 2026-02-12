@@ -68,13 +68,6 @@ payload:
   - DOMAIN-SUFFIX,feiyue.lol
   # > 非越
   - DOMAIN-SUFFIX,sfcj.org
-  # > 桃子
-  - DOMAIN-SUFFIX,peachmv.me
-  - DOMAIN-SUFFIX,embymv.tk
-  - DOMAIN-SUFFIX,embymv.link
-  - IP-CIDR,193.123.232.141/24,no-resolve
-  - IP-CIDR,208.87.242.13/24,no-resolve
-  - IP-CIDR,108.181.0.21/24,no-resolve
   # > cc
   - DOMAIN,cc.ccemby.ml
   - DOMAIN,dx1.ccemby.ga
