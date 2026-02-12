@@ -15,6 +15,13 @@ payload:
 
   
   # > 1
+  # > 桃子
+  - DOMAIN-SUFFIX,peachmv.me
+  - DOMAIN-SUFFIX,embymv.tk
+  - DOMAIN-SUFFIX,embymv.link
+  - IP-CIDR,193.123.232.141/24,no-resolve
+  - IP-CIDR,208.87.242.13/24,no-resolve
+  - IP-CIDR,108.181.0.21/24,no-resolve
   # > 守护
   - DOMAIN-SUFFIX,lite.cn2gias.uk
   # > levilde
