@@ -32,7 +32,6 @@ payload:
   # > 1111
   - DOMAIN-SUFFIX,emby.ml
   - DOMAIN-SUFFIX,xmsl.org
-  - DOMAIN-SUFFIX,xxlb.net
   # > NYA
   - DOMAIN-SUFFIX,emby.bangumi.ca
 
