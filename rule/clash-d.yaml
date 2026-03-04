@@ -8,6 +8,8 @@ payload:
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
   # > 不夜站点
+  # > 鉴片
+  - DOMAIN-SUFFIX,video.6w46t.com
   # > 杂项
   - DOMAIN-SUFFIX,mlink.cc
   - DOMAIN-SUFFIX,tv.yydsys.top
