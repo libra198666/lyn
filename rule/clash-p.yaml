@@ -34,7 +34,8 @@ payload:
   - DOMAIN-SUFFIX,xmsl.org
   # > NYA
   - DOMAIN-SUFFIX,emby.bangumi.ca
-
+  # > 肥牛
+  - DOMAIN,feiniu.lol
 
   # > 2
   # > pili
