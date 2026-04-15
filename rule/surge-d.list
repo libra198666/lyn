@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,10520.xyz
 # > okemby
 DOMAIN-SUFFIX,okemby.org
 # > Hohai
-DOMAIN-SUFFIX,emby.hohai.eu.org
+DOMAIN-SUFFIX,hohai.eu.org
 # > 1111
 IP-CIDR,209.141.61.153/31,no-resolve
 # > Emos
