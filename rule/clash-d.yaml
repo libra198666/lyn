@@ -41,6 +41,10 @@ payload:
   - DOMAIN-SUFFIX,erxiaofn.site
   - DOMAIN-SUFFIX,www.xhww.net
   - DOMAIN-SUFFIX,xiaoer.5568.eu.org
+  # > 虎斑
+  - DOMAIN-SUFFIX,xhban.xyz
+  - IP-CIDR,154.222.27.33/24,no-resolve
+  - IP-CIDR,103.45.162.207/24,no-resolve
   # > 立播
   - DOMAIN-SUFFIX,libvio.mov
   - DOMAIN-SUFFIX,www.libvio.cc
