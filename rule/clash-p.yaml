@@ -13,6 +13,16 @@ payload:
   - DOMAIN-SUFFIX,wjm.eny7kg.com
   - DOMAIN-SUFFIX,api.zaqohu.com
 
+
+  # > 0
+  # > 影巢
+  - DOMAIN-SUFFIX,hdlive.com
+  # > ds源仓
+  - DOMAIN-SUFFIX,repo.tvshare.cn
+  # > v2ex
+  - DOMAIN-SUFFIX,v2ex.com
+  # > jable
+  - DOMAIN-SUFFIX,jable.tv
   
   # > 1
   # > 桃子
