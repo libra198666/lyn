@@ -16,7 +16,7 @@ payload:
 
   # > 0
   # > 影巢
-  - DOMAIN-SUFFIX,hdlive.com
+  - DOMAIN-SUFFIX,hdhive.com
   # > ds源仓
   - DOMAIN-SUFFIX,repo.tvshare.cn
   # > v2ex
