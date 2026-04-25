@@ -4,7 +4,9 @@ payload:
   # > 自购域名
   - DOMAIN-SUFFIX,doudou.pet
   - DOMAIN-SUFFIX,claw.cloud
-  - DOMAIN-SUFFIX,v.sy1234.asia
+  - DOMAIN-SUFFIX,sy1234.asia
+  - DOMAIN-SUFFIX,sy1234.ggff.net
+
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
   # > 不夜站点
