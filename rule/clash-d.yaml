@@ -106,6 +106,7 @@ payload:
   # > B
   # > 月饼
   - DOMAIN-SUFFIX,emby.my
+  - DOMAIN,speedtest-peppapig.apple-cdn.net
   # > 惊蛰
   - DOMAIN-SUFFIX,jingzhe.pro
   # > saturday
