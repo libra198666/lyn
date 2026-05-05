@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,claw.cloud
   - DOMAIN-SUFFIX,sy1234.asia
   - DOMAIN-SUFFIX,sy1234.ggff.net
-
+  - DOMAIN-SUFFIX,cdn.v2ex.com
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
   # > 不夜站点
