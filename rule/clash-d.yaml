@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,cdn.v2ex.com
   # > 未日音乐
   - DOMAIN-SUFFIX,mefun.org
+  # > 南瓜音乐
+  - DOMAIN-SUFFIX,nangua.de  
   
   # > 不夜站点
   # > panta139
