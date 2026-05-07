@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,www.v2ex.com
   # > jable
   - DOMAIN-SUFFIX,jable.tv
+  # > missav
+  - DOMAIN-KEYWORD,missav
   
   # > 1
   # > 桃子
