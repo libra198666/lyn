@@ -11,12 +11,19 @@ payload:
   - DOMAIN-SUFFIX,mefun.org
   
   # > 不夜站点
+  # > 瓜子
+  - DOMAIN-SUFFIX,vd.hxcztech.com
   # > PPNIX
   - DOMAIN-SUFFIX,ppnix.com
   # > 
   - DOMAIN-SUFFIX,heyingjun.com
   # > 永乐
   - DOMAIN-SUFFIX,snv13.tscjzy.com
+  - DOMAIN-SUFFIX,hnts.ymuuy.com
+  # > 乌云
+  - DOMAIN-SUFFIX,c1.ddbbffcdn.com
+  # > 枫叶
+  - DOMAIN-SUFFIX,high26-playback.com
   # > 独播库
   - DOMAIN-SUFFIX,dbokutv.com
   # > 优视频
