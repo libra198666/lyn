@@ -3,6 +3,8 @@ payload:
   # > 待考察
 
   # > 临时
+  # > 南瓜音乐
+  - DOMAIN-SUFFIX,nangua.de  
   # > cc面板
   - DOMAIN,cc.coemn.com  
   - DOMAIN,carryz.net
