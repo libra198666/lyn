@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,sy1234.asia
 DOMAIN-SUFFIX,sy1234.ggff.net
 IP-CIDR,8.211.152.75/24,no-resolve
-#v2ex
+# > v2ex
 DOMAIN-SUFFIX,cdn.v2ex.com
 # > 未日音乐
 DOMAIN-SUFFIX,mefun.org
