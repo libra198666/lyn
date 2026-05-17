@@ -7,6 +7,9 @@ payload:
   - DOMAIN-SUFFIX,sy1234.asia
   - DOMAIN-SUFFIX,sy1234.ggff.net
   - IP-CIDR,8.211.152.75/24,no-resolve
+  # > dns
+  - IP-CIDR,1.1.1.1/24,no-resolve
+  - IP-CIDR,8.8.8.8/24,no-resolve
   # > git加速
   - DOMAIN-SUFFIX,github.moeyy.xyz
   # > v2ex
