@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,sy1234.asia
 DOMAIN-SUFFIX,sy1234.ggff.net
 IP-CIDR,8.211.152.75/24,no-resolve
+# > uz同步
+DOMAIN-SUFFIX,uzsync.616222.xyz
 # > dns
 IP-CIDR,1.1.1.1/24,no-resolve
 IP-CIDR,8.8.8.8/24,no-resolve
