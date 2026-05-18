@@ -1,8 +1,6 @@
 # NAME: 特殊
 
 payload:
-  # > 瓜子api
-  - DOMAIN-SUFFIX,api.w32z7vtd.com
   # > 星云
   - DOMAIN-SUFFIX,nebula-media.org
   # > jms
