@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,hohai.eu.org
 # > 1111
 IP-CIDR,209.141.61.153/31,no-resolve
 # > Emos
+DOMAIN-SUFFIX,emos.best
 DOMAIN-SUFFIX,emos.lol
 DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sharepoint.com
