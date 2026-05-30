@@ -53,6 +53,11 @@ payload:
   - DOMAIN-SUFFIX,emby.bangumi.ca
   # > 肥牛
   - DOMAIN,feiniu.lol
+  # > 星云-签到
+  - DOMAIN-SUFFIX,web.nebula-media.org
+
+
+  
 
   # > 2
   # > pili
