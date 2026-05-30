@@ -2,7 +2,8 @@
 
 payload:
   # > 星云
-  - DOMAIN-SUFFIX,nebula-media.org
+  - DOMAIN-SUFFIX,emby.nebula-media.org
+  - DOMAIN-SUFFIX,emby-cdn1.nebula-media.org
   # > jms
   - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,jmsuper.com
