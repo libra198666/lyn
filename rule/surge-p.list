@@ -47,7 +47,9 @@ DOMAIN-SUFFIX,emby.bangumi.ca
 DOMAIN-SUFFIX,emby.feiniu.lol
 # > 星云-签到
 DOMAIN-SUFFIX,web.nebula-media.org
-
+# > 彩虹
+DOMAIN-SUFFIX,feiyue.lol
+DOMAIN-SUFFIX,xxlb.net
 
 
 # > 2
