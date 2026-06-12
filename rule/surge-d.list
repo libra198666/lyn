@@ -16,6 +16,7 @@ IP-CIDR,8.8.8.8/24,no-resolve
 DOMAIN-SUFFIX,github.moeyy.xyz
 # > v2ex
 DOMAIN-SUFFIX,cdn.v2ex.com
+
 # > 未日音乐
 DOMAIN-SUFFIX,mefun.org
 # > 南瓜音乐
@@ -138,6 +139,8 @@ DOMAIN-SUFFIX,istyboe.top
 # > 起点站
 DOMAIN-SUFFIX,us.aemby.de
 DOMAIN-SUFFIX,28.al
+# > pili
+DOMAIN-SUFFIX,biliblili.uk
 
 # > B
 # > 月饼
