@@ -5,6 +5,7 @@ payload:
   # > 临时
   # > surge更新
   - DOMAIN-SUFFIX,bugsnag.com
+  - DOMAIN-SUFFIX,nssurge.com
   # > cc面板
   - DOMAIN,cc.coemn.com  
   - DOMAIN,carryz.net
