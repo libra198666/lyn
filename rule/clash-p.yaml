@@ -35,6 +35,8 @@ payload:
   - DOMAIN-KEYWORD,missav
   
   # > 1
+  # > 月饼
+  - DOMAIN-SUFFIX,emby.my
   # > 桃子
   - DOMAIN-SUFFIX,peachmv.me
   - DOMAIN-SUFFIX,embymv.tk
