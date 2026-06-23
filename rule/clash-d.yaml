@@ -97,8 +97,6 @@ payload:
 
 
   # > A
-# > 月饼
-  - DOMAIN-SUFFIX,emby.my
   # > 琴鸟
   - IP-CIDR6,2A01:4F8:2200:2063::2/128
   - IP-CIDR,167.235.116.53/24,no-resolve
