@@ -8,7 +8,7 @@ payload:
   - IP-CIDR,8.211.152.75/24,no-resolve
   # > 其他
   - DOMAIN-SUFFIX,rtcxyz.com
-  - DOMAIN-SUFFIX,hdhive.tgtodrive.top
+  - DOMAIN-SUFFIX,hdhive-open.tgtodrive.top
   # > uz
   - DOMAIN-SUFFIX,616222.xyz
   # > dns
