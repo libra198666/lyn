@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,wjm.eny7kg.com
   - DOMAIN-SUFFIX,api.zaqohu.com
   - DOMAIN-SUFFIX,api.w32z7vtd.com
+  # > 剧迷
+  - DOMAIN-SUFFIX,gimy01.tv
   # > 爱瓜TV
   - DOMAIN-SUFFIX,cf186.yfvodcdn.com
   # > 4kmp
