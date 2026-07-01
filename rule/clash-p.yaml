@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,plex.embycc.link
   # > 瓜子web
   - DOMAIN-SUFFIX,vd.jiunuow.com
+  - DOMAIN-SUFFIX,vd.wmvbo.com
   - DOMAIN-SUFFIX,wjm.eny7kg.com
   - DOMAIN-SUFFIX,api.zaqohu.com
   - DOMAIN-SUFFIX,api.w32z7vtd.com
