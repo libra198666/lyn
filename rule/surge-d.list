@@ -1,7 +1,6 @@
 # > 自购域名
 DOMAIN-SUFFIX,doudou.pet
 DOMAIN-SUFFIX,claw.cloud
-IP-CIDR,8.211.152.75/24,no-resolve
 # > 其他
 DOMAIN-SUFFIX,rtcxyz.com
 DOMAIN-SUFFIX,hdhive-open.tgtodrive.top
