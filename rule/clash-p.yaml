@@ -38,6 +38,8 @@ payload:
   - DOMAIN-KEYWORD,missav
   
   # > emby
+  # > 狗
+  - DOMAIN-SUFFIX,lite.saturdayent.top
   # > 一之
   - DOMAIN-SUFFIX,emby.ichinosekotomi.com
   # > 月饼
