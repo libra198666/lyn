@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,jable.tv
 # > missav
 DOMAIN-KEYWORD,missav
 
-# > 1
+# > emby
 # > 月饼
 DOMAIN-SUFFIX,emby.my
 # > 桃子
@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,web.nebula-media.org
 # > 彩虹
 DOMAIN-SUFFIX,feiyue.lol
 DOMAIN-SUFFIX,xxlb.net
+# > 一之
+DOMAIN-SUFFIX,emby.ichinosekotomi.com
 
 
 # > 2
