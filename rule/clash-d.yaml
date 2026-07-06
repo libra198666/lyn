@@ -10,6 +10,9 @@ payload:
   # > uz
   - DOMAIN-SUFFIX,616222.xyz
   # > dns
+  - IP-CIDR,195.58.144.140/24,no-resolve
+  - IP-CIDR,148.135.183.158/24,no-resolve
+  # > dns
   - IP-CIDR,1.1.1.1/24,no-resolve
   - IP-CIDR,8.8.8.8/24,no-resolve
   # > git加速
