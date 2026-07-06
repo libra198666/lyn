@@ -6,9 +6,10 @@ DOMAIN-SUFFIX,rtcxyz.com
 DOMAIN-SUFFIX,hdhive-open.tgtodrive.top
 # > uz
 DOMAIN-SUFFIX,616222.xyz
-# > dns
+# > vps
 IP-CIDR,195.58.144.140/24,no-resolve
 IP-CIDR,148.135.183.158/24,no-resolve
+IP-CIDR,193.142.18.202/24,no-resolve
 # > dns
 IP-CIDR,1.1.1.1/24,no-resolve
 IP-CIDR,8.8.8.8/24,no-resolve
