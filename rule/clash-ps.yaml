@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,emby-cdn1.nebula-media.org
   # > jms
   - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,cr18.eu.org
   - DOMAIN-SUFFIX,jmsuper.com
   - DOMAIN-SUFFIX,holivator.de
   # > youno cf
