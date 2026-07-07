@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,claw.cloud
   # > 其他
   - DOMAIN-SUFFIX,rtcxyz.com
-  - DOMAIN-SUFFIX,hdhive-open.tgtodrive.top
   # > uz
   - DOMAIN-SUFFIX,616222.xyz
   # > vps
