@@ -3,6 +3,8 @@ payload:
   # > 待考察
 
   # > 临时
+  # > ttd
+  - DOMAIN-SUFFIX,tgtodrive.top
   # > surge更新
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,nssurge.com
