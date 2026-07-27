@@ -114,8 +114,6 @@ DOMAIN,cc.ccemby.ml
 DOMAIN,dx1.ccemby.ga
 DOMAIN,cc.ccemby.tk
 IP-CIDR,35.197.139.161/31,no-resolve
-# > polo
-DOMAIN-SUFFIX,poloemby.xyz
 # > hxd
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,embyru.222921.xyz
