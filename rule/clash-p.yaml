@@ -40,6 +40,15 @@ payload:
   - DOMAIN-KEYWORD,missav
   
   # > emby
+  # > jms
+  - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,cr18.eu.org
+  - DOMAIN-SUFFIX,jmsuper.com
+  - DOMAIN-SUFFIX,holivator.de
+  # > hxd porn
+  - DOMAIN-SUFFIX,emby.as174.com
+  - DOMAIN-SUFFIX,emby.as174.de
+  
   # > polo
   - DOMAIN-SUFFIX,poloemby.xyz
   # > 狗
