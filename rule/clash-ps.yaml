@@ -4,20 +4,12 @@ payload:
   # > 星云
   - DOMAIN-SUFFIX,emby.nebula-media.org
   - DOMAIN-SUFFIX,emby-cdn1.nebula-media.org
-  # > jms
-  - DOMAIN-SUFFIX,jmsooo.com
-  - DOMAIN-SUFFIX,cr18.eu.org
-  - DOMAIN-SUFFIX,jmsuper.com
-  - DOMAIN-SUFFIX,holivator.de
   # > youno cf
   - DOMAIN,emby.younoyes.com
   # > 纸片人
   - DOMAIN-SUFFIX,embyplus.org
   # > 临境
   - DOMAIN-SUFFIX,liminalnet.com
-  # > hxd porn
-  - DOMAIN-SUFFIX,emby.as174.com
-  - DOMAIN-SUFFIX,emby.as174.de
   # > 起点站td
   - DOMAIN-SUFFIX,startspoint.com
   # > 肥牛
