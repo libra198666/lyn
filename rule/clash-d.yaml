@@ -2,8 +2,10 @@
 # NAME: 直连
 payload:
   # > 自购域名
+  - DOMAIN-SUFFIX,liangxin.xyz
+  # > 机场
   - DOMAIN-SUFFIX,doudou.pet
-  - DOMAIN-SUFFIX,claw.cloud
+  - DOMAIN-SUFFIX,claw.cloud 
   # > 其他
   - DOMAIN-SUFFIX,rtcxyz.com
   # > ttd
