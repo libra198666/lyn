@@ -5,6 +5,8 @@
 # > surge更新
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,nssurge.com
+# > ttd
+DOMAIN-SUFFIX,tgtodrive.top
 # > cc面板
 DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,carryz.net
