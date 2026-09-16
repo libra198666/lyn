@@ -13,12 +13,8 @@ payload:
   - DOMAIN,emby.younoyes.com
   # > 纸片人
   - DOMAIN-SUFFIX,embyplus.org
-  # > 临境
-  - DOMAIN-SUFFIX,liminalnet.com
   # > 起点站td
   - DOMAIN-SUFFIX,startspoint.com
-  # > 肥牛
-  - DOMAIN-SUFFIX,emby.feiniu.lol
   # > 1111
   - DOMAIN-SUFFIX,emby.ml
   - DOMAIN-SUFFIX,xmsl.org
