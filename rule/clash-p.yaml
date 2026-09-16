@@ -88,17 +88,6 @@ payload:
   # > 2
   # > pili
   - DOMAIN-KEYWORD,pilipili
-  # > misty
-  - DOMAIN-KEYWORD,misty
-  # > syn
-  - DOMAIN-SUFFIX,ntrrr.top
-  - DOMAIN-SUFFIX,api.aca.best
-  # > 卡戎
-  - DOMAIN-SUFFIX,play.charontv.com
-  # > 猫熊
-  - DOMAIN-SUFFIX,emby.kim
-  # > 放映厅
-  - DOMAIN-SUFFIX,9191001.xyz
   
   # > P
   # > 游骑兵
