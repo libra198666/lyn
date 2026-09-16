@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,nangua.de
 DOMAIN-SUFFIX,91panta.cn
 # > 瓜子
 DOMAIN-SUFFIX,vd.hxcztech.com
+DOMAIN-SUFFIX,vd.wmvbo.com
+DOMAIN-SUFFIX,api.gudvxty.com
 # > PPNIX
 DOMAIN-SUFFIX,ppnix.com
 # > 荐片
@@ -54,8 +56,12 @@ DOMAIN-SUFFIX,oledsa.com
 DOMAIN-SUFFIX,film.symx.club
 # > 鉴片
 DOMAIN-SUFFIX,video.6w46t.com
-# > 瓜子
-DOMAIN-SUFFIX,vd.wmvbo.com
+# > 飞快
+DOMAIN-SUFFIX,feikuai.tv
+DOMAIN-SUFFIX,dytt-cine.com
+# > 苹果
+IP-CIDR,23.237.228.132/24,no-resolve
+DOMAIN-SUFFIX,haotv.store
 
 # > 杂项
 DOMAIN-SUFFIX,mlink.cc
@@ -149,17 +155,13 @@ DOMAIN,speedtest-peppapig.apple-cdn.net
 DOMAIN-SUFFIX,jingzhe.pro
 # > saturday
 DOMAIN,lite.saturdayvideo.top
-# > kiku
-DOMAIN-SUFFIX,ucloudhost.top
-# > 入机
-DOMAIN-SUFFIX,rjf37.com
-DOMAIN-SUFFIX,xytx.org
 # > youno
 DOMAIN-SUFFIX,us.younoyes.com
 DOMAIN-SUFFIX,jp.younoyes.com
 # > 稳健
 DOMAIN,emby.wenjian.de
-
+# > PAUL
+DOMAIN-SUFFIX,imetyou.top
 
 # > P
 # > 叔服
@@ -167,34 +169,6 @@ DOMAIN-SUFFIX,emby3.mcjoker.xyz
 # > hka
 DOMAIN-SUFFIX,aliz.work
 
-
-
-
-# > C
-# > 西瓜
-DOMAIN-SUFFIX,1024.name
-# > PAUL
-DOMAIN-SUFFIX,imetyou.top
-# > 尘烬
-DOMAIN-SUFFIX,emby.eu.org
-# > 骡马
-DOMAIN-SUFFIX,us.nomaba.com
-
-
-
-
-
-
-
-# > 弃
-# > 野兽
-DOMAIN-SUFFIX,mius.uk
-# > 不给看
-DOMAIN-SUFFIX,emby.pro
-DOMAIN-SUFFIX,bgka.me
-# > gugu
-DOMAIN-SUFFIX,gugumedia.site
-DOMAIN-SUFFIX,gugu.media
 
 # > 6v电影
 DOMAIN-SUFFIX,6v520.com
@@ -220,15 +194,8 @@ DOMAIN-SUFFIX,hostbuf.com
 # > ter
 DOMAIN-SUFFIX,termius.com
 
-# > xptv
-# > 飞快
-DOMAIN-SUFFIX,feikuai.tv
-DOMAIN-SUFFIX,dytt-cine.com
-# > 苹果
-IP-CIDR,23.237.228.132/24,no-resolve
-DOMAIN-SUFFIX,haotv.store
-# > 瓜子
-DOMAIN-SUFFIX,api.gudvxty.com
+
+
 
 
 
