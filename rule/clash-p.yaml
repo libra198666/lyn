@@ -103,6 +103,8 @@ payload:
   # > P
   # > 游骑兵
   - DOMAIN-SUFFIX,heisi.org
+  # > hg
+  - DOMAIN-SUFFIX,hgemby.qzz.io
   # > 探花
   - DOMAIN-SUFFIX,tanhuatv.site
 
