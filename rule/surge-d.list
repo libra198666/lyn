@@ -105,12 +105,6 @@ DOMAIN-SUFFIX,libvio.link
 
 
 # > A
-# > 琴鸟
-IP-CIDR6,2A01:4F8:2200:2063::2/128
-IP-CIDR,167.235.116.53/24,no-resolve
-DOMAIN-SUFFIX,lyrebirdemby.com
-# > 比比
-DOMAIN,beebi.org
 # > 大v
 DOMAIN-SUFFIX,viclub.top
 # > 见手青
@@ -127,10 +121,10 @@ DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,embyru.222921.xyz
 DOMAIN-SUFFIX,hxd.as174.com
 DOMAIN-SUFFIX,hxd.as174.de
-# > dada
-DOMAIN-SUFFIX,10520.xyz
 # > okemby
 DOMAIN-SUFFIX,okemby.org
+# > okemby反代
+DOMAIN-SUFFIX,eemby.cc.cd
 # > Hohai
 DOMAIN-SUFFIX,hohai.eu.org
 # > 1111
