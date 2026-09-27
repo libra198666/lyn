@@ -49,6 +49,9 @@ payload:
   # > hxd porn
   - DOMAIN-SUFFIX,emby.as174.com
   - DOMAIN-SUFFIX,emby.as174.de
+
+  # > 非越
+  - DOMAIN-SUFFIX,media.emby.pro
   
   # > polo
   - DOMAIN-SUFFIX,poloemby.xyz
