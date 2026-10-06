@@ -6,6 +6,10 @@ payload:
   - DOMAIN-SUFFIX,sy123.ggff.net
   - DOMAIN-SUFFIX,ydycdn.com
   - DOMAIN-SUFFIX,dpdns.org
+  # > dns
+  - IP-CIDR,1.1.1.1/24,no-resolve
+  - IP-CIDR,8.8.8.8/24,no-resolve
+  - IP-CIDR,8.8.4.4/24,no-resolve
 
   # > vps
   - IP-CIDR,144.225.255.228/24,no-resolve
