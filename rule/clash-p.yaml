@@ -49,6 +49,8 @@ payload:
   # > hxd porn
   - DOMAIN-SUFFIX,emby.as174.com
   - DOMAIN-SUFFIX,emby.as174.de
+  # > 1111
+  - DOMAIN-SUFFIX,cf.xmsl.org
 
   # > 非越
   - DOMAIN-SUFFIX,media.emby.pro
