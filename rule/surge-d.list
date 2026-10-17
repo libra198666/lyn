@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,dpdns.org
 IP-CIDR,1.1.1.1/24,no-resolve
 IP-CIDR,8.8.8.8/24,no-resolve
 IP-CIDR,8.8.4.4/24,no-resolve
+IP-CIDR,5.5.5.5/24,no-resolve
 
 
 # > vps
