@@ -17,6 +17,7 @@ payload:
   # > 机场
   - DOMAIN-SUFFIX,liangxin.xyz
   - DOMAIN-SUFFIX,doudou.pet
+  - DOMAIN-SUFFIX,7777699.xyz
   # > 其他
   - DOMAIN-SUFFIX,rtcxyz.com
 
