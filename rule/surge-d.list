@@ -97,6 +97,9 @@ DOMAIN-SUFFIX,libvio.link
 
 
 # > A
+# > 1111
+DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,emby.ml
 # > peach
 DOMAIN-SUFFIX,embymv.cc
 # > 大v
