@@ -17,3 +17,5 @@ DOMAIN-SUFFIX,startspoint.com
 DOMAIN-SUFFIX,emby.as174.com
 DOMAIN-SUFFIX,emby.as174.de
 DOMAIN-SUFFIX,9kg.hxdemby.com
+  # > polo
+  - DOMAIN-SUFFIX,poloemby.xyz
