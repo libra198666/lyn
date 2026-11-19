@@ -49,9 +49,7 @@ payload:
 
   # > 非越
   - DOMAIN-SUFFIX,media.emby.pro
-  
-  # > polo
-  - DOMAIN-SUFFIX,poloemby.xyz
+
   # > 狗
   - DOMAIN-SUFFIX,lite.saturdayent.top
   # > 一之
