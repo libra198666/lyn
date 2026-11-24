@@ -236,7 +236,8 @@ payload:
   - DOMAIN-SUFFIX,9ddm.com
 
 
-
+  # > rex
+  - DOMAIN-SUFFIX,linizu1977.com
 
 
 
