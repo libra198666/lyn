@@ -157,7 +157,9 @@ DOMAIN,lite.saturdayvideo.top
 DOMAIN-SUFFIX,us.younoyes.com
 DOMAIN-SUFFIX,jp.younoyes.com
 # > 稳健
-DOMAIN,emby.wenjian.de
+DOMAIN-SUFFIX,emby.wenjian.de
+DOMAIN-SUFFIX,m.wenjian.de
+DOMAIN-SUFFIX,music.wenjian.de
 # > PAUL
 DOMAIN-SUFFIX,imetyou.top
 
